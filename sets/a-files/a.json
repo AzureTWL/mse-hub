@@ -1,10 +1,18 @@
 ﻿{
+    "name": "War Of Azurite",
+    "formats": "",
+    "trimmed": "y",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "UW01 Sparkworker",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 40,
             "color_identity": "W",
             "cost": "{W}",
@@ -18,19 +26,17 @@
             "artist": "",
             "alias": "",
             "position": "0",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW02 Frontline Fodder",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flash\nWhen Frontline Fodder dies, choose one \u2013 \n\u2022 You gain 2 life.\n\u2022 Create a tapped Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Flash\nWhen Frontline Fodder dies, choose one \u2014 \n\u2022 You gain 2 life.\n\u2022 Create a tapped Junk token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -40,19 +46,17 @@
             "artist": "Winter Jaye",
             "alias": "",
             "position": "1",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW03 Order Priest",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Priest",
+            "type": "Creature \u2014 Human Priest",
             "number": 14,
             "color_identity": "WB",
             "cost": "{1}{W}",
-            "rules_text": "Lifelink\nWhenever you gain life, Order Priest gains +1/+0 until end of turn.\n[i]Channel[/i] \u2013 {1}{B}, Discard Order Priest: Target creature you don't control gets -2/-2 until end of turn.",
+            "rules_text": "Lifelink\nWhenever you gain life, Order Priest gains +1/+0 until end of turn.\n[i]Channel[/i] \u2014 {1}{B}, Discard Order Priest: Target creature you don't control gets -2/-2 until end of turn.",
             "flavor_text": "[i]\u201cRemember, if i say that Rumi is sinful, you get paid... But is that really ethical?\u201d[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -62,15 +66,13 @@
             "artist": "Misha Oplev",
             "alias": "",
             "position": "2",
-            "notes": "Lifegain WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain WB"
         },
         {
             "card_name": "CW04 Drudging Mechanist",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Engineer",
+            "type": "Creature \u2014 Human Engineer",
             "number": 15,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -84,15 +86,13 @@
             "artist": "Joaquim Barata",
             "alias": "",
             "position": "3",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW05 Oppressive Enforcer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 16,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -106,15 +106,13 @@
             "artist": "Winter Jaye",
             "alias": "",
             "position": "4",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW07 Bronze-Halo Aspirant",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 18,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -128,15 +126,13 @@
             "artist": "",
             "alias": "",
             "position": "5",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW08 Community Warden",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -150,15 +146,13 @@
             "artist": "",
             "alias": "",
             "position": "6",
-            "notes": "Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain"
         },
         {
             "card_name": "CW09 Aerial Convoy Escort",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Pilot",
+            "type": "Creature \u2014 Human Pilot",
             "number": 20,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -172,15 +166,13 @@
             "artist": "",
             "alias": "",
             "position": "7",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW10 Field Medic Veteran",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 21,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -194,15 +186,13 @@
             "artist": "",
             "alias": "",
             "position": "8",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW11 Halberd-Line Enforcer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 22,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -216,15 +206,13 @@
             "artist": "Benjamin Goutte",
             "alias": "",
             "position": "9",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW12 Rushdown Sergeant",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 23,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -238,9 +226,7 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "10",
-            "notes": "buff",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "buff"
         },
         {
             "card_name": "CW13 Crush Under the Order",
@@ -260,15 +246,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "11",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CW14 Lockdown Systems",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -282,9 +266,7 @@
             "artist": "",
             "alias": "",
             "position": "12",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CW15 Neutralization Protocol",
@@ -304,9 +286,7 @@
             "artist": "Omar waleed",
             "alias": "",
             "position": "13",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CW16 Alley Evasion",
@@ -316,7 +296,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature you control gets +1/+2 until end of turn.\n\u2022 Return target creature you control to its owner's hand.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control gets +1/+2 until end of turn.\n\u2022 Return target creature you control to its owner's hand.",
             "flavor_text": "[i]\u201cGotta abandon Venthir.. I need to go off the Grid...\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -326,15 +306,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "14",
-            "notes": "buff, reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "buff, reprint"
         },
         {
             "card_name": "CW17 Order-Issued Blade",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 28,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -348,9 +326,7 @@
             "artist": "",
             "alias": "",
             "position": "15",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW18 Mobilize the Civilians",
@@ -370,9 +346,7 @@
             "artist": "KMProxy",
             "alias": "",
             "position": "16",
-            "notes": "Gowide",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Gowide"
         },
         {
             "card_name": "CW19 Orderly Deconstruction",
@@ -392,15 +366,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "17",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "UU01 Glitchphaser",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 79,
             "color_identity": "U",
             "cost": "{U}",
@@ -414,15 +386,13 @@
             "artist": "",
             "alias": "",
             "position": "18",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU02 Data Skimmer",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Drone",
+            "type": "Artifact Creature \u2014 Azure Drone",
             "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -436,15 +406,13 @@
             "artist": "Encho Enchev",
             "alias": "",
             "position": "19",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU03 Scrap-Node Hermit",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Engineer",
+            "type": "Creature \u2014 Human Engineer",
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -458,15 +426,13 @@
             "artist": "Joaquim Barata",
             "alias": "",
             "position": "20",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU04 Neuroline Coder",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Hacker",
+            "type": "Creature \u2014 Human Hacker",
             "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -480,19 +446,17 @@
             "artist": "Eddy Shinjuku",
             "alias": "",
             "position": "21",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU05 Predictive Patternist",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Hacker",
+            "type": "Artifact Creature \u2014 Azure Hacker",
             "number": 55,
             "color_identity": "UG",
             "cost": "{2}{U}",
-            "rules_text": "Whenever you cast a spell, if {C} was spent to cast it, Predictive Patternist gets +1/+1 until end of turn.\n[i]Channel[/i] \u2013 {G}, Discard Predictive Patternist: Compile 2. [i](Look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]",
+            "rules_text": "Whenever you cast a spell, if {C} was spent to cast it, Predictive Patternist gets +1/+1 until end of turn.\n[i]Channel[/i] \u2014 {G}, Discard Predictive Patternist: Compile 2. [i](Look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]",
             "flavor_text": "[i]\u201cPrediction models hold when emotion doesn't.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -502,15 +466,13 @@
             "artist": "Yakovlev Art",
             "alias": "",
             "position": "22",
-            "notes": "C U R Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "C U R Compile"
         },
         {
             "card_name": "CU06 Latency Disruptor",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Hacker",
+            "type": "Creature \u2014 Human Hacker",
             "number": 56,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -524,15 +486,13 @@
             "artist": "Envar Studios",
             "alias": "",
             "position": "23",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU07 Chassis Salvager",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Mechanic",
+            "type": "Creature \u2014 Human Mechanic",
             "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -546,15 +506,13 @@
             "artist": "Envar Studios",
             "alias": "",
             "position": "24",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU08 Covert Compiler",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Drone",
+            "type": "Artifact Creature \u2014 Azure Drone",
             "number": 58,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -568,19 +526,17 @@
             "artist": "Vincent Lefevre",
             "alias": "",
             "position": "25",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU09 Deep-Vault Watcher",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Construct",
+            "type": "Artifact Creature \u2014 Azure Construct",
             "number": 59,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Defender\nWhen Deep-Vault Watcher enters, surveil 2.\n[i]Descend 7[/i] \u2013 As long as there are seven or more permanent cards in your graveyard, Deep-Vault Watcher can attack as though it didn't have defender.",
+            "rules_text": "Defender\nWhen Deep-Vault Watcher enters, surveil 2.\n[i]Descend 7[/i] \u2014 As long as there are seven or more permanent cards in your graveyard, Deep-Vault Watcher can attack as though it didn't have defender.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -590,9 +546,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "26",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU11 System Immunity",
@@ -612,9 +566,7 @@
             "artist": "RX",
             "alias": "",
             "position": "27",
-            "notes": "Removal C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal C U R"
         },
         {
             "card_name": "CU12 You Find a Vulnerability",
@@ -624,7 +576,7 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Counter target spell unless its controller pays {2}. If you do, choose one \u2013 \n\u2022 [i]Make it Open Source: [/i]Compile 1. [i](Look at the top card of your library. You may exile that card facedown initialized. If you dont, put it on the bottom of your library.)[/i]\n\u2022 [i]Keep it Closed Source: [/i]Surveil 2.",
+            "rules_text": "Counter target spell unless its controller pays {2}. If you do, choose one \u2014 \n\u2022 [i]Make it Open Source: [/i]Compile 1. [i](Look at the top card of your library. You may exile that card facedown initialized. If you dont, put it on the bottom of your library.)[/i]\n\u2022 [i]Keep it Closed Source: [/i]Surveil 2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -634,15 +586,13 @@
             "artist": "Aaron Joseph",
             "alias": "",
             "position": "28",
-            "notes": "Removal Compile Mill",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal Compile Mill"
         },
         {
             "card_name": "CU13 System Freeze",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -656,9 +606,7 @@
             "artist": "Lorenz Hideyoshi Ruwwe",
             "alias": "",
             "position": "29",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU14 Exploit the System",
@@ -668,7 +616,7 @@
             "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Draw two cards.\n[i]Metalcraft[/i] \u2013 If you control three or more artifacts, draw three cards instead.",
+            "rules_text": "Draw two cards.\n[i]Metalcraft[/i] \u2014 If you control three or more artifacts, draw three cards instead.",
             "flavor_text": "[i]\u201cPerfect, that means its overloaded.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -678,9 +626,7 @@
             "artist": "Max Hay",
             "alias": "",
             "position": "30",
-            "notes": "Draw",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Draw"
         },
         {
             "card_name": "CU15 Data Override",
@@ -700,9 +646,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "31",
-            "notes": "Draw C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Draw C U R"
         },
         {
             "card_name": "CU16 Displaced Data",
@@ -722,9 +666,7 @@
             "artist": "Joaquim Barata",
             "alias": "",
             "position": "32",
-            "notes": "Removal Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal Compile"
         },
         {
             "card_name": "CU17 Overclock Pulse",
@@ -744,9 +686,7 @@
             "artist": "XuNing Cui",
             "alias": "",
             "position": "33",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU18 Neural Jam",
@@ -756,7 +696,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Tap up to two target creatures.\n[i]Metalcraft[/i] \u2013 If you control three or more artifacts, you may put a stun counter on up to one of those creatures.",
+            "rules_text": "Tap up to two target creatures.\n[i]Metalcraft[/i] \u2014 If you control three or more artifacts, you may put a stun counter on up to one of those creatures.",
             "flavor_text": "[i]\u201cIt's not about breaking the brain. It's about silencing its patterns.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -766,15 +706,13 @@
             "artist": "Georgi Simeonov",
             "alias": "",
             "position": "34",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UB01 Bonecacher",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 118,
             "color_identity": "B",
             "cost": "{B}",
@@ -788,19 +726,17 @@
             "artist": "",
             "alias": "",
             "position": "35",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB02 Sparkscour Hacker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Hacker",
+            "type": "Creature \u2014 Human Hacker",
             "number": 91,
             "color_identity": "WB",
             "cost": "{1}{B}",
-            "rules_text": "When Sparkscour Hacker dies, you draw a card and lose 1 life.\n[i]Channel[/i] \u2013 {1}{W}, Discard Sparkscour Hacker: Destroy target noncreature artifact or enchantment.",
+            "rules_text": "When Sparkscour Hacker dies, you draw a card and lose 1 life.\n[i]Channel[/i] \u2014 {1}{W}, Discard Sparkscour Hacker: Destroy target noncreature artifact or enchantment.",
             "flavor_text": "[i]\u201cEvery firewall's got a pressure point, you just gotta either bleed or pay for it.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -810,15 +746,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "36",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB03 Corrupt Court Official",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 92,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -832,15 +766,13 @@
             "artist": "Drew Baker",
             "alias": "",
             "position": "37",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "CB04 Memory-Gutter Scraper",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Processor",
+            "type": "Artifact Creature \u2014 Azure Processor",
             "number": 93,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -854,15 +786,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "38",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB05 Processor Salvager",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Processor",
+            "type": "Artifact Creature \u2014 Azure Processor",
             "number": 94,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -876,15 +806,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "39",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB06 Hierarch Enforcer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Samurai",
+            "type": "Creature \u2014 Human Samurai",
             "number": 95,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -898,15 +826,13 @@
             "artist": "John powell",
             "alias": "",
             "position": "40",
-            "notes": "WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "WB"
         },
         {
             "card_name": "CB07 Bloodcircuit Marauder",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 96,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -920,19 +846,17 @@
             "artist": "Yakovlev",
             "alias": "",
             "position": "41",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB08 Projection Spiritcaller",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Illusion",
+            "type": "Artifact Creature \u2014 Azure Illusion",
             "number": 97,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Flying\nWhen Projection Spiritcaller enters, surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n[i]Channel[/i] \u2013 {B}{B}, Discard Projection Spiritcaller and sacrifice a creature: Draw two cards. You lose 2 life.",
+            "rules_text": "Flying\nWhen Projection Spiritcaller enters, surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\n[i]Channel[/i] \u2014 {B}{B}, Discard Projection Spiritcaller and sacrifice a creature: Draw two cards. You lose 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -942,15 +866,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "42",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB09 Lobeharvester Drone",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 98,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -964,15 +886,13 @@
             "artist": "Andy Piatti",
             "alias": "",
             "position": "43",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB10 Order Elite Juggernaut",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Juggernaut",
+            "type": "Artifact Creature \u2014 Juggernaut",
             "number": 99,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -986,9 +906,7 @@
             "artist": "Viko Menezes",
             "alias": "",
             "position": "44",
-            "notes": "WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "WB"
         },
         {
             "card_name": "CB11 Terminate Process",
@@ -1008,9 +926,7 @@
             "artist": "Benjamin GILETTI",
             "alias": "",
             "position": "45",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CB12 Debug Purge",
@@ -1030,9 +946,7 @@
             "artist": "RX",
             "alias": "",
             "position": "46",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CB13 Order Raid",
@@ -1052,9 +966,7 @@
             "artist": "RX",
             "alias": "",
             "position": "47",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB14 Sever Link",
@@ -1074,9 +986,7 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "48",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB15 Exploit the Vulnerability",
@@ -1096,9 +1006,7 @@
             "artist": "CrAIyon",
             "alias": "",
             "position": "49",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CB16 Deconstruct and Recompile",
@@ -1118,9 +1026,7 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "50",
-            "notes": "Recursion",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Recursion"
         },
         {
             "card_name": "CB17 Duress",
@@ -1140,15 +1046,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "51",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "CB18 Synthetic Vigor",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 107,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1162,9 +1066,7 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "52",
-            "notes": "Buff",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Buff"
         },
         {
             "card_name": "CB19 Reusable Protocol",
@@ -1184,15 +1086,13 @@
             "artist": "i",
             "alias": "",
             "position": "53",
-            "notes": "Swarm",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Swarm"
         },
         {
             "card_name": "UR01 Flamejetter",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 156,
             "color_identity": "R",
             "cost": "{R}",
@@ -1206,15 +1106,13 @@
             "artist": "",
             "alias": "",
             "position": "54",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR02 Boneplate Apprentice",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Mechanic",
+            "type": "Creature \u2014 Human Mechanic",
             "number": 129,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1228,15 +1126,13 @@
             "artist": "Leonardo",
             "alias": "",
             "position": "55",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR03 Patchling Slasher",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure Warrior",
+            "type": "Artifact Creature \u2014 Azure Warrior",
             "number": 130,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1250,15 +1146,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "56",
-            "notes": "C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "C U R"
         },
         {
             "card_name": "CR04 Rustcleaver Ronin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 131,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1272,15 +1166,13 @@
             "artist": "Sail Lin",
             "alias": "",
             "position": "57",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR06 Forgerush Artillerist",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Mercenary",
+            "type": "Creature \u2014 Human Mercenary",
             "number": 133,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -1294,15 +1186,13 @@
             "artist": "RX",
             "alias": "",
             "position": "58",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR07 Corepulse Analyst",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure",
+            "type": "Artifact Creature \u2014 Azure",
             "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -1316,15 +1206,13 @@
             "artist": "David Legnon",
             "alias": "",
             "position": "59",
-            "notes": "C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "C U R"
         },
         {
             "card_name": "CR09 Ashframe Slasher",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Samurai",
+            "type": "Creature \u2014 Human Samurai",
             "number": 136,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -1338,15 +1226,13 @@
             "artist": "Jack Wang",
             "alias": "",
             "position": "60",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR10 Detonation Crawler",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 137,
             "color_identity": "R",
             "cost": "{5}{R}",
@@ -1360,9 +1246,7 @@
             "artist": "Encho Enchev",
             "alias": "",
             "position": "61",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CR11 Wall Shot",
@@ -1382,9 +1266,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "62",
-            "notes": "C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "C U R"
         },
         {
             "card_name": "CR12 Rage of the Scorchlink",
@@ -1404,9 +1286,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "63",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR13 Logic Corruption",
@@ -1426,9 +1306,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "64",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR14 Overclocked Wave",
@@ -1448,9 +1326,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "65",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR15 Terminal Reroute",
@@ -1470,15 +1346,13 @@
             "artist": "",
             "alias": "",
             "position": "66",
-            "notes": "Draw C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Draw C U R"
         },
         {
             "card_name": "CR16 Auto-Forged Blade",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 143,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1492,9 +1366,7 @@
             "artist": "Benjamin Giletti",
             "alias": "",
             "position": "67",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR17 Adrenaline Spike",
@@ -1514,9 +1386,7 @@
             "artist": "Surendra Rajawat",
             "alias": "",
             "position": "68",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR18 Targeting Jammer",
@@ -1536,9 +1406,7 @@
             "artist": "Logan Feliciano",
             "alias": "",
             "position": "69",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CR19 Flare Shot",
@@ -1548,7 +1416,7 @@
             "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice a creature. Choose one \u2013 \n\u2022 Flare Shot deals 4 damage to any target.\n\u2022 Exile the top two cards of your library. You may play them until the end of your next turn.",
+            "rules_text": "As an additional cost to cast this spell, sacrifice a creature. Choose one \u2014 \n\u2022 Flare Shot deals 4 damage to any target.\n\u2022 Exile the top two cards of your library. You may play them until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1558,15 +1426,13 @@
             "artist": "Hue Teo",
             "alias": "",
             "position": "70",
-            "notes": "Draw Removal Sacpile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Draw Removal Sacpile"
         },
         {
             "card_name": "UG01 Leafcoiler",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 195,
             "color_identity": "G",
             "cost": "{G}",
@@ -1580,19 +1446,17 @@
             "artist": "",
             "alias": "",
             "position": "71",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG02 District Bloomkeeper",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 168,
             "color_identity": "BG",
             "cost": "{1}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land enters under your control, you gain 1 life.\n[i]Channel[/i] \u2013 {B}, Discard District Bloomkeeper: Recycle. [i](Exile one or more cards from your graveyard. Draw a card if you exile 5 or more cards this way.)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land enters under your control, you gain 1 life.\n[i]Channel[/i] \u2014 {B}, Discard District Bloomkeeper: Recycle. [i](Exile one or more cards from your graveyard. Draw a card if you exile 5 or more cards this way.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1602,15 +1466,13 @@
             "artist": "Yummei",
             "alias": "",
             "position": "72",
-            "notes": "Lifegain Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain Recycle"
         },
         {
             "card_name": "CG03 Scorchrush Mechasuit",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Mercenary",
+            "type": "Creature \u2014 Human Mercenary",
             "number": 169,
             "color_identity": "RG",
             "cost": "{1}{G}",
@@ -1624,15 +1486,13 @@
             "artist": "Eddie Mendoza",
             "alias": "",
             "position": "73",
-            "notes": "Blitz Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Blitz Removal"
         },
         {
             "card_name": "CG04 Pipe-Tunnel Scavenger",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 170,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1646,19 +1506,17 @@
             "artist": "Terraform Studios",
             "alias": "",
             "position": "74",
-            "notes": "Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Recycle"
         },
         {
             "card_name": "CG05 Neuroline Guardian",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Hacker",
+            "type": "Creature \u2014 Human Hacker",
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, Compile 2. [i](Look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]\n[i]Channel[/i] \u2013 {1}{G}, Discard Neuroline Guardian: Prevent all combat damage dealt to players this turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, Compile 2. [i](Look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]\n[i]Channel[/i] \u2014 {1}{G}, Discard Neuroline Guardian: Prevent all combat damage dealt to players this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1668,15 +1526,13 @@
             "artist": "RX",
             "alias": "",
             "position": "75",
-            "notes": "Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Compile"
         },
         {
             "card_name": "CG06 Corpseline Picker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 172,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1690,15 +1546,13 @@
             "artist": "John Powell",
             "alias": "",
             "position": "76",
-            "notes": "Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Recycle"
         },
         {
             "card_name": "CG07 Sawtooth Charger",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Beast Construct",
+            "type": "Artifact Creature \u2014 Beast Construct",
             "number": 173,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1712,15 +1566,13 @@
             "artist": "\u8457\u8457\u5440",
             "alias": "",
             "position": "77",
-            "notes": "Blitz",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Blitz"
         },
         {
             "card_name": "CG08 Vitalcore Forger",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Minion Citizen",
+            "type": "Artifact Creature \u2014 Minion Citizen",
             "number": 174,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1734,15 +1586,13 @@
             "artist": "Aurore Folny",
             "alias": "",
             "position": "78",
-            "notes": "Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain"
         },
         {
             "card_name": "CG09 Copper Elemental",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Elemental",
+            "type": "Artifact Creature \u2014 Elemental",
             "number": 175,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -1756,19 +1606,17 @@
             "artist": "Qiaofu",
             "alias": "",
             "position": "79",
-            "notes": "Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Compile"
         },
         {
             "card_name": "CG10 Corpseline Elemental",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Elemental",
+            "type": "Artifact Creature \u2014 Elemental",
             "number": 176,
             "color_identity": "WG",
             "cost": "{5}{G}",
-            "rules_text": "Trample\nThis spell costs {2} less to cast if you've exiled a card from a graveyard this turn.\n[i]Channel[/i] \u2013 {W}, Discard Corpseline Elemental: Draw a card, then you gain 2 life.",
+            "rules_text": "Trample\nThis spell costs {2} less to cast if you've exiled a card from a graveyard this turn.\n[i]Channel[/i] \u2014 {W}, Discard Corpseline Elemental: Draw a card, then you gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1778,15 +1626,13 @@
             "artist": "",
             "alias": "",
             "position": "80",
-            "notes": "Lifegain Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain Recycle"
         },
         {
             "card_name": "CG11 Scorchrush Mentor",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 177,
             "color_identity": "RG",
             "cost": "{6}{G}",
@@ -1800,9 +1646,7 @@
             "artist": "Aleksey Litvishkov",
             "alias": "",
             "position": "81",
-            "notes": "Blitz",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Blitz"
         },
         {
             "card_name": "CG12 Datafeed Skirmish",
@@ -1822,9 +1666,7 @@
             "artist": "John Powell",
             "alias": "",
             "position": "82",
-            "notes": "Removal Blitz",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal Blitz"
         },
         {
             "card_name": "CG13 Overclock the Flesh",
@@ -1844,9 +1686,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "83",
-            "notes": "Buff Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Buff Recycle"
         },
         {
             "card_name": "CG14 Unified Rush",
@@ -1866,9 +1706,7 @@
             "artist": "John powell",
             "alias": "",
             "position": "84",
-            "notes": "Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain"
         },
         {
             "card_name": "CG15 Compile the System",
@@ -1888,15 +1726,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "85",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG16 Biocircuit Enhancement",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 182,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1910,9 +1746,7 @@
             "artist": "RX",
             "alias": "",
             "position": "86",
-            "notes": "Buff Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Buff Lifegain"
         },
         {
             "card_name": "CG18 Lifecode Creation",
@@ -1932,9 +1766,7 @@
             "artist": "Space Goose",
             "alias": "",
             "position": "87",
-            "notes": "Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Compile"
         },
         {
             "card_name": "CG19 System Purge",
@@ -1954,19 +1786,17 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "88",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "CW01 Kakeru's Understudy",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Engineer",
+            "type": "Creature \u2014 Human Engineer",
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Kakeru's Understudy enters, Choose one \u2013 \n\u2022 Create a Bone Saw token.\n\u2022 You gain 2 life.",
+            "rules_text": "When Kakeru's Understudy enters, Choose one \u2014 \n\u2022 Create a Bone Saw token.\n\u2022 You gain 2 life.",
             "flavor_text": "[i]\u201cI took them under my wing because they just wouldn't leave me alone, but their work is pretty promising.\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1976,15 +1806,13 @@
             "artist": "Runa Ivana Rosenberger",
             "alias": "",
             "position": "89",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UW02 Order Extraction Transport",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 41,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1998,9 +1826,7 @@
             "artist": "Angelina Stroganova",
             "alias": "",
             "position": "90",
-            "notes": "WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "WB"
         },
         {
             "card_name": "UW10 Armed and Primed",
@@ -2020,15 +1846,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "98",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU01 Static Node",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Azure",
+            "type": "Artifact Creature \u2014 Azure",
             "number": 51,
             "color_identity": "U",
             "cost": "{U}",
@@ -2042,15 +1866,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "99",
-            "notes": "Compile Mill",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Compile Mill"
         },
         {
             "card_name": "UU02 Spectra, Unblinking Eye",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2013 Azure Eye",
+            "type": "Legendary Artifact Creature \u2014 Azure Eye",
             "number": 80,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2064,19 +1886,17 @@
             "artist": "Davison Carvalho",
             "alias": "",
             "position": "100",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU03 Nexus, Source Code",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2013 Azure Construct",
+            "type": "Legendary Artifact Creature \u2014 Azure Construct",
             "number": 81,
             "color_identity": "WU",
             "cost": "{2}{U}",
-            "rules_text": "{T}: Compile 2, then discard a card, then you may cast a noncreature card initialized card you own from exile. Activate only as a sorcery. [i](To Compile 2, look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]\n[i]Channel[/i] \u2013 {1}{W}, Discard Nexus, Source Code: Create a tapped Powerstone token.",
+            "rules_text": "{T}: Compile 2, then discard a card, then you may cast a noncreature card initialized card you own from exile. Activate only as a sorcery. [i](To Compile 2, look at the top two cards of your library. You may exile one face down initialized, then put the rest on the bottom of your library.)[/i]\n[i]Channel[/i] \u2014 {1}{W}, Discard Nexus, Source Code: Create a tapped Powerstone token.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2086,15 +1906,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "101",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU04 Walking Building",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 82,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2108,15 +1926,13 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "102",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU05 Kaeto, Arcanomancer",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human Hacker",
+            "type": "Legendary Creature \u2014 Human Hacker",
             "number": 83,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2130,15 +1946,13 @@
             "artist": "Max Hay",
             "alias": "",
             "position": "103",
-            "notes": "colorless matters",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "colorless matters"
         },
         {
             "card_name": "UU06 Cura, Neuroline Ascendant",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2013 Azure Construct",
+            "type": "Legendary Artifact Creature \u2014 Azure Construct",
             "number": 84,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -2152,15 +1966,13 @@
             "artist": "KILART (choe, heonhwa)",
             "alias": "",
             "position": "104",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU07 Capture Drones",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 85,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2174,9 +1986,7 @@
             "artist": "Michael Oberschneider",
             "alias": "",
             "position": "105",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU08 Cog to the Machine",
@@ -2196,15 +2006,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "106",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU09 Cargo Ship",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 87,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2218,9 +2026,7 @@
             "artist": "St\u00e9phane Bourez",
             "alias": "",
             "position": "107",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UU10 Keep Under Eyes",
@@ -2230,7 +2036,7 @@
             "number": 88,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "You may look at an additional two cards each time you surveil.\n[i]Descend 8[/i] \u2013 Sacrifice Keep Under Eyes: Surveil 2, then draw two cards. Activate only if there are seven or more permanent cards among cards in your graveyard.",
+            "rules_text": "You may look at an additional two cards each time you surveil.\n[i]Descend 8[/i] \u2014 Sacrifice Keep Under Eyes: Surveil 2, then draw two cards. Activate only if there are seven or more permanent cards among cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2240,9 +2046,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "108",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "UU11 Cognitive Cacher",
@@ -2262,15 +2066,13 @@
             "artist": "Ben Mauro",
             "alias": "",
             "position": "109",
-            "notes": "colorless matters",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "colorless matters"
         },
         {
             "card_name": "CB01 Hullcarver",
             "color": "B",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Robot Assassin",
+            "type": "Artifact Creature \u2014 Robot Assassin",
             "number": 90,
             "color_identity": "B",
             "cost": "{B}",
@@ -2284,15 +2086,13 @@
             "artist": "Michal Ivan",
             "alias": "",
             "position": "110",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "UB02 Umbral Collar Zealot",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Priest",
+            "type": "Creature \u2014 Human Priest",
             "number": 119,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2306,9 +2106,7 @@
             "artist": "",
             "alias": "",
             "position": "111",
-            "notes": "Sacrifice",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Sacrifice"
         },
         {
             "card_name": "UB09 Corpseline Barracks",
@@ -2318,7 +2116,7 @@
             "number": 232,
             "color_identity": "BG",
             "cost": "{2}{BG}",
-            "rules_text": "{G}, {T}: Recycle. If you exile 2 or more cards this way, add {G}{G}. [i](Exile one or more cards from your graveyard. Draw a card if you exile 5 or more cards this way.)[/i]\n[i]Exhaust[/i] \u2013 {B}, {T}: Add {B}{B}{B}. You lose 2 life. [i](Activate each exhaust ability only once.)[/i]\nYou can cast Corpseline Barracks from exile if its initialized.",
+            "rules_text": "{G}, {T}: Recycle. If you exile 2 or more cards this way, add {G}{G}. [i](Exile one or more cards from your graveyard. Draw a card if you exile 5 or more cards this way.)[/i]\n[i]Exhaust[/i] \u2014 {B}, {T}: Add {B}{B}{B}. You lose 2 life. [i](Activate each exhaust ability only once.)[/i]\nYou can cast Corpseline Barracks from exile if its initialized.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2328,9 +2126,7 @@
             "artist": "Fuling HU",
             "alias": "",
             "position": "118",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UB11 Recorded Atrocities",
@@ -2350,15 +2146,13 @@
             "artist": "Lucas LEGER",
             "alias": "",
             "position": "120",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR01 Sparkburn Drone",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 128,
             "color_identity": "R",
             "cost": "{R}",
@@ -2372,9 +2166,7 @@
             "artist": "Benjamin GILETTI",
             "alias": "",
             "position": "121",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR02",
@@ -2394,15 +2186,13 @@
             "artist": "Chin Fong",
             "alias": "",
             "position": "122",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR03 Rooftop Scouter",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Ranger",
+            "type": "Creature \u2014 Human Ranger",
             "number": 158,
             "color_identity": "BR",
             "cost": "{2}{R}",
@@ -2416,9 +2206,7 @@
             "artist": "Angelina Stroganova",
             "alias": "",
             "position": "124",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR08 Recursive Protocol",
@@ -2428,7 +2216,7 @@
             "number": 163,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Recursive Protocol deals 3 damage to any target. Exile Recursive Protocol with three time counters on it.\nSuspend 2\u2013{R} [i](Rather than cast this card from your hand, you may pay {R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]",
+            "rules_text": "Recursive Protocol deals 3 damage to any target. Exile Recursive Protocol with three time counters on it.\nSuspend 2\u2014{R} [i](Rather than cast this card from your hand, you may pay {R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2438,9 +2226,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "128",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR10 The Corepulse, Discovered",
@@ -2460,9 +2246,7 @@
             "artist": "Flint Chen",
             "alias": "",
             "position": "129",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR11 Retributory Fighters",
@@ -2482,15 +2266,13 @@
             "artist": "Evnar Studios",
             "alias": "",
             "position": "130",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG01 Underground Alchemist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 167,
             "color_identity": "G",
             "cost": "{G}",
@@ -2504,9 +2286,7 @@
             "artist": "Ekaterina Tambovtseva",
             "alias": "",
             "position": "131",
-            "notes": "Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain"
         },
         {
             "card_name": "UG09 Dredger's Insight",
@@ -2526,9 +2306,7 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "139",
-            "notes": "Recycle",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Recycle"
         },
         {
             "card_name": "UG11 Lifecode Bloom",
@@ -2538,7 +2316,7 @@
             "number": 233,
             "color_identity": "WG",
             "cost": "{2}{GW}",
-            "rules_text": "{G},{T}: Add {G}{G}, {G}{W} or {W}{W}.\n[i]Exhaust[/i] \u2013 {1}{W},{T} Create two 1/1 green Plant creature tokens. You gain 2 life. [i](Activate each exhaust ability only once.)[/i]\nYou can cast Lifecode Bloom from exile if its initialized.",
+            "rules_text": "{G},{T}: Add {G}{G}, {G}{W} or {W}{W}.\n[i]Exhaust[/i] \u2014 {1}{W},{T} Create two 1/1 green Plant creature tokens. You gain 2 life. [i](Activate each exhaust ability only once.)[/i]\nYou can cast Lifecode Bloom from exile if its initialized.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2548,15 +2326,13 @@
             "artist": "Lili Ibrahim",
             "alias": "",
             "position": "141",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RW01 Alarion, Husk of the Order",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Advisor",
+            "type": "Legendary Creature \u2014 Human Advisor",
             "number": 33,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -2570,9 +2346,7 @@
             "artist": "Marcin Rubinkowski",
             "alias": "",
             "position": "142",
-            "notes": "Draw Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Draw Removal"
         },
         {
             "card_name": "RW07 Slice Down",
@@ -2592,15 +2366,13 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "148",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RU01 Fblthp, Terminally Lost",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Homunculus",
+            "type": "Legendary Creature \u2014 Homunculus",
             "number": 72,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2614,15 +2386,13 @@
             "artist": "",
             "alias": "",
             "position": "149",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RU02 Phazer, Echo of Persistence",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Artifact Creature \u2013 Azure Construct",
+            "type": "Legendary Artifact Creature \u2014 Azure Construct",
             "number": 73,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -2636,9 +2406,7 @@
             "artist": "Joaquim Barata",
             "alias": "",
             "position": "150",
-            "notes": "Stax",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Stax"
         },
         {
             "card_name": "RU03 Unsent Communication",
@@ -2658,15 +2426,13 @@
             "artist": "Ksens_Deni",
             "alias": "",
             "position": "151",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RU07 Hacker's Legacy",
             "color": "UB",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Class",
+            "type": "Enchantment \u2014 Class",
             "number": 78,
             "color_identity": "UB",
             "cost": "{1}{U}",
@@ -2680,9 +2446,7 @@
             "artist": "",
             "alias": "",
             "position": "155",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RB06 Self Reconstruction",
@@ -2702,9 +2466,7 @@
             "artist": "Riley Dannenbring",
             "alias": "",
             "position": "161",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RB07 Invoke Despair",
@@ -2724,15 +2486,13 @@
             "artist": "Olivier Bernard",
             "alias": "",
             "position": "162",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "RR01 Kaelen, Retributory Operative",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Rebel",
+            "type": "Legendary Creature \u2014 Human Rebel",
             "number": 149,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2746,15 +2506,13 @@
             "artist": "Benjamin Ee",
             "alias": "",
             "position": "163",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RR02 Kari, Speed Blitzer",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Rogue",
+            "type": "Legendary Creature \u2014 Human Rogue",
             "number": 150,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -2768,9 +2526,7 @@
             "artist": "RX",
             "alias": "",
             "position": "164",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RX06 Bound to Null",
@@ -2790,9 +2546,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "168",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RR06 Tagout",
@@ -2812,9 +2566,7 @@
             "artist": "RX",
             "alias": "",
             "position": "169",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RG07 System Unleashed",
@@ -2834,15 +2586,13 @@
             "artist": "Julian Faylona",
             "alias": "",
             "position": "176",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "MU01 Unit Zero, Rumi's Right Hand",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Artifact Creature \u2013 Azure Construct",
+            "type": "Legendary Artifact Creature \u2014 Azure Construct",
             "number": 70,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2856,15 +2606,13 @@
             "artist": "Horse/Knightoid",
             "alias": "",
             "position": "179",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "MU02 Rumi, Azurite General",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Rumi",
+            "type": "Legendary Planeswalker \u2014 Rumi",
             "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2878,15 +2626,13 @@
             "artist": "Flos",
             "alias": "",
             "position": "180",
-            "notes": "Showcase",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Showcase"
         },
         {
             "card_name": "UM01 Azurite Betrayer",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Azure Rogue",
+            "type": "Artifact Creature \u2014 Azure Rogue",
             "number": 222,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -2900,15 +2646,13 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "187",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 RAM Drainer",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Azure Processor",
+            "type": "Artifact Creature \u2014 Azure Processor",
             "number": 230,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -2922,15 +2666,13 @@
             "artist": "",
             "alias": "",
             "position": "188",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Crimson Hacktivist",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Hacker",
+            "type": "Creature \u2014 Human Hacker",
             "number": 224,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -2944,15 +2686,13 @@
             "artist": "",
             "alias": "",
             "position": "189",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Scorchrush Anarchist",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 231,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -2966,19 +2706,17 @@
             "artist": "Ekaterina Tambovtseva",
             "alias": "",
             "position": "190",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Cat Caller",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 223,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "When Cat Caller enters, create a 1/1 white Cat creature token with \u201cWhenever you gain life, put a +1/+1 counter on this token.\u201d\n[i]Landfall[/i] \u2013 Whenever a creature enters under your control, you gain 1 life.",
+            "rules_text": "When Cat Caller enters, create a 1/1 white Cat creature token with \u201cWhenever you gain life, put a +1/+1 counter on this token.\u201d\n[i]Landfall[/i] \u2014 Whenever a creature enters under your control, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2988,19 +2726,17 @@
             "artist": "",
             "alias": "",
             "position": "191",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Order Keepers",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 229,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "When Order Keepers enter, choose one \u2013 \n\u2022 Return target creature with 3 mana value or less from your graveyard to your hand.\n\u2022 Create a oppressed Role token attached on creature you don't control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1 and is a Citizen in addition to its other types.)[/i]",
+            "rules_text": "When Order Keepers enter, choose one \u2014 \n\u2022 Return target creature with 3 mana value or less from your graveyard to your hand.\n\u2022 Create a oppressed Role token attached on creature you don't control. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1 and is a Citizen in addition to its other types.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3010,15 +2746,13 @@
             "artist": "",
             "alias": "",
             "position": "192",
-            "notes": "WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "WB"
         },
         {
             "card_name": "UM01 Fracture Engineer",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Azure Engineer",
+            "type": "Artifact Creature \u2014 Azure Engineer",
             "number": 225,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -3032,15 +2766,13 @@
             "artist": "Jaechan Gwon",
             "alias": "",
             "position": "193",
-            "notes": "Colorless C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Colorless C U R"
         },
         {
             "card_name": "UM01 Graveyard Technician",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Engineer",
+            "type": "Creature \u2014 Human Engineer",
             "number": 226,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -3054,15 +2786,13 @@
             "artist": "Theo Aretos",
             "alias": "",
             "position": "194",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Kakeru, Munitions Supplier",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human Engineer",
+            "type": "Legendary Creature \u2014 Human Engineer",
             "number": 227,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -3076,15 +2806,13 @@
             "artist": "",
             "alias": "",
             "position": "195",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UM01 Neuroline Constructor",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Azure Hacker",
+            "type": "Artifact Creature \u2014 Azure Hacker",
             "number": 228,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -3098,15 +2826,13 @@
             "artist": "Joaquim Barata",
             "alias": "",
             "position": "196",
-            "notes": "Compile",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Compile"
         },
         {
             "card_name": "RM01 Rumi, Aspiring Technician",
             "color": "WU",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Hacker",
+            "type": "Legendary Creature \u2014 Human Hacker",
             "number": 219,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}",
@@ -3122,24 +2848,22 @@
             "position": "197",
             "card_name2": "Rumi, Lost to the Spark",
             "color2": "UB",
-            "type2": "Legendary Planeswalker \u2013 Rumi",
+            "type2": "Legendary Planeswalker \u2014 Rumi",
             "cost2": "",
-            "rules_text2": "[i]Spark of Azurite \u2013 [/i]As Rumi enters, you get an emblem with \u201cThe first artifact spell you cast each turn has affinity for artifacts.\u201d\n[+1]: Draw a card. If it's an artifact, you may reveal it. If you do, add {U}.\n[-2]: Create a 3/3 blue Azure Construct artifact creature token with \u201cThis creature can't be blocked by creatures with mana value 2 or less.\u201d",
+            "rules_text2": "[i]Spark of Azurite \u2014 [/i]As Rumi enters, you get an emblem with \u201cThe first artifact spell you cast each turn has affinity for artifacts.\u201d\n[+1]: Draw a card. If it's an artifact, you may reveal it. If you do, add {U}.\n[-2]: Create a 3/3 blue Azure Construct artifact creature token with \u201cThis creature can't be blocked by creatures with mana value 2 or less.\u201d",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "[i]Spark of Azurite \u2013 [/i]As Rumi enters, you get an emblem with \u201cThe first artifact spell you cast each turn has affinity for artifacts.\u201d\n[+1]: Draw a card. If it's an artifact, you may reveal it. If you do, add {U}.\n[-2]: Create a 3/3 blue Azure Construct artifact creature token with \u201cThis creature can't be blocked by creatures with mana value 2 or less.\u201d",
+            "special_text2": "[i]Spark of Azurite \u2014 [/i]As Rumi enters, you get an emblem with \u201cThe first artifact spell you cast each turn has affinity for artifacts.\u201d\n[+1]: Draw a card. If it's an artifact, you may reveal it. If you do, add {U}.\n[-2]: Create a 3/3 blue Azure Construct artifact creature token with \u201cThis creature can't be blocked by creatures with mana value 2 or less.\u201d",
             "loyalty2": "4",
             "artist2": "",
             "alias2": "",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Nyxren, Void Caller",
             "color": "UB",
             "rarity": "rare",
-            "type": "Legendary Artifact Creature \u2013 Azure Processor",
+            "type": "Legendary Artifact Creature \u2014 Azure Processor",
             "number": 218,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -3153,19 +2877,17 @@
             "artist": "RX",
             "alias": "",
             "position": "198",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Terralock, Ground Rewired",
             "color": "RG",
             "rarity": "rare",
-            "type": "Legendary Artifact Creature \u2013 Construct Druid",
+            "type": "Legendary Artifact Creature \u2014 Construct Druid",
             "number": 220,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "Nonbasic lands you control are mountains.\n[i]Landfall[/i] \u2013 Whenever a land enters under your control, create a green Aura enchantment token named Wild Growth with \u201cEnchant land\u201d and \u201cWhenever enchanted land is tapped for mana, its controller adds an additional {G}.\u201d, then attach it to that land.",
+            "rules_text": "Nonbasic lands you control are mountains.\n[i]Landfall[/i] \u2014 Whenever a land enters under your control, create a green Aura enchantment token named Wild Growth with \u201cEnchant land\u201d and \u201cWhenever enchanted land is tapped for mana, its controller adds an additional {G}.\u201d, then attach it to that land.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -3175,9 +2897,7 @@
             "artist": "Benjamin GILETTI",
             "alias": "",
             "position": "200",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Artifical Duplication",
@@ -3197,9 +2917,7 @@
             "artist": "RX",
             "alias": "",
             "position": "202",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Casualties of War",
@@ -3209,7 +2927,7 @@
             "number": 214,
             "color_identity": "BG",
             "cost": "{2}{B}{B}{G}{G}",
-            "rules_text": "Choose one or more \u2013\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature.\n\u2022 Destroy target enchantment.\n\u2022 Destroy target land.\n\u2022 Destroy target planeswalker.",
+            "rules_text": "Choose one or more \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature.\n\u2022 Destroy target enchantment.\n\u2022 Destroy target land.\n\u2022 Destroy target planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3219,15 +2937,13 @@
             "artist": "Issac Hannaford",
             "alias": "",
             "position": "203",
-            "notes": "Mass Removal, reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Mass Removal, reprint"
         },
         {
             "card_name": "CA02 Order-Sanctioned Juggernaut",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Juggernaut",
+            "type": "Artifact Creature \u2014 Juggernaut",
             "number": 236,
             "color_identity": "C",
             "cost": "{4}",
@@ -3241,15 +2957,13 @@
             "artist": "Jorge Oliveira",
             "alias": "",
             "position": "206",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RX01 Battlefield Manufacturer",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Assembly-Worker",
+            "type": "Artifact Creature \u2014 Assembly-Worker",
             "number": 242,
             "color_identity": "C",
             "cost": "{3}",
@@ -3263,9 +2977,7 @@
             "artist": "AIVIK Studio",
             "alias": "",
             "position": "207",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA05 Azurite Geode",
@@ -3285,15 +2997,13 @@
             "artist": "Yakovlev Art",
             "alias": "",
             "position": "208",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA03 Plasma-Fused Sphinx",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Sphinx Construct",
+            "type": "Artifact Creature \u2014 Sphinx Construct",
             "number": 237,
             "color_identity": "C",
             "cost": "{6}",
@@ -3307,15 +3017,13 @@
             "artist": "Benjamin GILETTI",
             "alias": "",
             "position": "209",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA01 Scrap-Scouter Drone",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Drone",
+            "type": "Artifact Creature \u2014 Drone",
             "number": 235,
             "color_identity": "C",
             "cost": "{2}",
@@ -3329,9 +3037,7 @@
             "artist": "Calder Moore",
             "alias": "",
             "position": "210",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL01 Ember Nexus",
@@ -3351,9 +3057,7 @@
             "artist": "Joseph Yun",
             "alias": "",
             "position": "216",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UL01 Echoing Shrine",
@@ -3373,9 +3077,7 @@
             "artist": "Loden Chapman",
             "alias": "",
             "position": "217",
-            "notes": "Lifegain",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Lifegain"
         },
         {
             "card_name": "UL02 Datafall Ruins",
@@ -3395,9 +3097,7 @@
             "artist": "Damian T\u0142uczkiewicz",
             "alias": "",
             "position": "218",
-            "notes": "Mill",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Mill"
         },
         {
             "card_name": "UL03 Memory Garden",
@@ -3417,9 +3117,7 @@
             "artist": "arnaud caubel",
             "alias": "",
             "position": "219",
-            "notes": "Buff",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Buff"
         },
         {
             "card_name": "UL04 Cached Fortress",
@@ -3439,9 +3137,7 @@
             "artist": "Tianyu Sun",
             "alias": "",
             "position": "220",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UL05 Daunting Expanse",
@@ -3461,15 +3157,13 @@
             "artist": "John Powell",
             "alias": "",
             "position": "221",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UX01 Ornithopter",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Thopter",
+            "type": "Artifact Creature \u2014 Thopter",
             "number": 248,
             "color_identity": "C",
             "cost": "{0}",
@@ -3483,15 +3177,13 @@
             "artist": "",
             "alias": "",
             "position": "222",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "CA04 Bone Saw",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 238,
             "color_identity": "C",
             "cost": "{0}",
@@ -3505,15 +3197,13 @@
             "artist": "Kev Walker",
             "alias": "",
             "position": "227",
-            "notes": "reprint",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "reprint"
         },
         {
             "card_name": "RR07 Blacksmith's Legacy",
             "color": "WR",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Class",
+            "type": "Enchantment \u2014 Class",
             "number": 155,
             "color_identity": "WR",
             "cost": "{1}{R}",
@@ -3527,19 +3217,17 @@
             "artist": "",
             "alias": "",
             "position": "232",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "MX02 Hikaru, Catalyst In Between",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Citizen",
+            "type": "Legendary Creature \u2014 Human Citizen",
             "number": 207,
             "color_identity": "UR",
             "cost": "{1}{C}{U}{R}",
-            "rules_text": "[i]Eminence[/i] \u2013 As long as Hikaru is in the command zone or on the battlefield, skip your combat phase.\nAs you draw a card, you may reveal it. When you do, add {C} equal to half its mana value, rounded up. Until end of turn, you don't lose this mana as steps and phases end.\nWhenever you spend colorless mana, Hikaru deals half that much damage, rounded down, to any target.",
+            "rules_text": "[i]Eminence[/i] \u2014 As long as Hikaru is in the command zone or on the battlefield, skip your combat phase.\nAs you draw a card, you may reveal it. When you do, add {C} equal to half its mana value, rounded up. Until end of turn, you don't lose this mana as steps and phases end.\nWhenever you spend colorless mana, Hikaru deals half that much damage, rounded down, to any target.",
             "flavor_text": "[i][/i]",
             "pt": "0/4",
             "special_text": "",
@@ -3549,15 +3237,13 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "236",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "MM01 Kakeru, General of Order",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Engineer",
+            "type": "Legendary Creature \u2014 Human Engineer",
             "number": 205,
             "color_identity": "WR",
             "cost": "{4}{R}{W}",
@@ -3571,15 +3257,13 @@
             "artist": "",
             "alias": "",
             "position": "237",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Corepulse, Awakenened",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Artifact Planeswalker \u2013 Corepulse",
+            "type": "Legendary Artifact Planeswalker \u2014 Corepulse",
             "number": 234,
             "color_identity": "UR",
             "cost": "{4}{CR}{CU}",
@@ -3593,19 +3277,17 @@
             "artist": "Ayan Nag",
             "alias": "",
             "position": "238",
-            "notes": "C U R",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "C U R"
         },
         {
             "card_name": "MX05 Alarion, Face of The Order",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Horror",
+            "type": "Legendary Creature \u2014 Human Horror",
             "number": 208,
             "color_identity": "WB",
             "cost": "{5}{W}{B}",
-            "rules_text": "When Alarion enters, for each other creature you control, create a Oppressed Role token attached to that creature. Draw a card for each token created this way.\nOther creatures without role tokens lose all abilities.\nExhaust \u2013 {7}{W}{B}: You get an emblem with \u201cWhenever you draw a card, you may create an Oppressed Role token attached to target creature you don't control. If you do, gain control of it.\u201d",
+            "rules_text": "When Alarion enters, for each other creature you control, create a Oppressed Role token attached to that creature. Draw a card for each token created this way.\nOther creatures without role tokens lose all abilities.\nExhaust \u2014 {7}{W}{B}: You get an emblem with \u201cWhenever you draw a card, you may create an Oppressed Role token attached to target creature you don't control. If you do, gain control of it.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "0/7",
             "special_text": "",
@@ -3615,15 +3297,13 @@
             "artist": "RX",
             "alias": "",
             "position": "239",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 280,
             "color_identity": "W",
             "cost": "",
@@ -3637,15 +3317,13 @@
             "artist": "",
             "alias": "",
             "position": "240",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 281,
             "color_identity": "U",
             "cost": "",
@@ -3659,15 +3337,13 @@
             "artist": "",
             "alias": "",
             "position": "241",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 282,
             "color_identity": "B",
             "cost": "",
@@ -3681,15 +3357,13 @@
             "artist": "",
             "alias": "",
             "position": "242",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 283,
             "color_identity": "R",
             "cost": "",
@@ -3703,15 +3377,13 @@
             "artist": "",
             "alias": "",
             "position": "243",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 284,
             "color_identity": "G",
             "cost": "",
@@ -3725,9 +3397,7 @@
             "artist": "",
             "alias": "",
             "position": "244",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL03 Prism Bastion",
@@ -3747,9 +3417,7 @@
             "artist": "Quentin Mabille",
             "alias": "",
             "position": "245",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL02 Null Crucible",
@@ -3769,9 +3437,7 @@
             "artist": "Marcin Rubinkowski",
             "alias": "",
             "position": "246",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL04 Quantum Spire",
@@ -3791,9 +3457,7 @@
             "artist": "Quentin Mabille",
             "alias": "",
             "position": "247",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL05 Verdant Circuit",
@@ -3813,9 +3477,7 @@
             "artist": "Corso Lawson",
             "alias": "",
             "position": "248",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL06 Chapel of the Nullbody",
@@ -3835,9 +3497,7 @@
             "artist": "Jakub Bazyluk",
             "alias": "",
             "position": "249",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL02 Shore of the Skyglass",
@@ -3857,9 +3517,7 @@
             "artist": "Alex Rommel",
             "alias": "",
             "position": "250",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL03 Tunnels of the Mindhusk",
@@ -3879,9 +3537,7 @@
             "artist": "Saga Alayyoubi",
             "alias": "",
             "position": "251",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL04 Ruins of the Dreamforge",
@@ -3901,9 +3557,7 @@
             "artist": "Wojtek Fus",
             "alias": "",
             "position": "252",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL05 Santuary of the Lifecode",
@@ -3923,9 +3577,7 @@
             "artist": "Marvin Hillmann",
             "alias": "",
             "position": "253",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL07 Refraction of the Singularity",
@@ -3945,9 +3597,7 @@
             "artist": "\u72e9\u91ce\u5343\u6d64",
             "alias": "",
             "position": "254",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL09 Spire of the Ordersoul",
@@ -3967,9 +3617,7 @@
             "artist": "Alexander Winkler",
             "alias": "",
             "position": "255",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL08 Garden of the Nullseed",
@@ -3989,9 +3637,7 @@
             "artist": "Alessandro Paviolo",
             "alias": "",
             "position": "256",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL10 Laboratory of the Echobloom",
@@ -4011,9 +3657,7 @@
             "artist": "Nuen Studios",
             "alias": "",
             "position": "257",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RL01 Grove of the Burnwillows",
@@ -4033,15 +3677,13 @@
             "artist": "Jeff Todd",
             "alias": "",
             "position": "258",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wastes",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Wastes",
+            "type": "Basic Land \u2014 Wastes",
             "number": 279,
             "color_identity": "C",
             "cost": "",
@@ -4055,15 +3697,13 @@
             "artist": "",
             "alias": "",
             "position": "259",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR05 Scorchlink Assassin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 132,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4077,15 +3717,13 @@
             "artist": "Jeremy Hanna",
             "alias": "",
             "position": "260",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CR08 Scorchrush Juggernaut",
             "color": "R",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Juggernaut",
+            "type": "Artifact Creature \u2014 Juggernaut",
             "number": 135,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -4099,9 +3737,7 @@
             "artist": "Benjamin GILETTI",
             "alias": "",
             "position": "261",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL06 Bloodfell Caves",
@@ -4121,9 +3757,7 @@
             "artist": "Piotr Dura",
             "alias": "",
             "position": "262",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL07 Blossoming Sands",
@@ -4143,9 +3777,7 @@
             "artist": "Robin Olausson",
             "alias": "",
             "position": "263",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL08 Dismal Backwater",
@@ -4165,9 +3797,7 @@
             "artist": "Chris Ostrowski",
             "alias": "",
             "position": "264",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL11 Scoured Barrens",
@@ -4187,9 +3817,7 @@
             "artist": "Eddie Mendoza",
             "alias": "",
             "position": "265",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL12 Swiftwater Cliffs",
@@ -4209,9 +3837,7 @@
             "artist": "mark Poole",
             "alias": "",
             "position": "266",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL14 Tranquil Cove",
@@ -4231,9 +3857,7 @@
             "artist": "Alayna Danner",
             "alias": "",
             "position": "267",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL13 Thornwood Falls",
@@ -4253,9 +3877,7 @@
             "artist": "Sam Burley",
             "alias": "",
             "position": "268",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL09 Jungle Hollow",
@@ -4275,9 +3897,7 @@
             "artist": "Lucas Staniec",
             "alias": "",
             "position": "269",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL10 Rugged Highlands",
@@ -4297,9 +3917,7 @@
             "artist": "Thomas Stoop",
             "alias": "",
             "position": "270",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CL15 Wind-Scarred Crag",
@@ -4319,9 +3937,7 @@
             "artist": "Filip Burburan",
             "alias": "",
             "position": "271",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA07 Circuitstone Systems",
@@ -4341,15 +3957,13 @@
             "artist": "Ryan Brothers",
             "alias": "",
             "position": "272",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CA06 Candy Chip",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Food",
+            "type": "Artifact \u2014 Food",
             "number": 240,
             "color_identity": "C",
             "cost": "{1}",
@@ -4363,9 +3977,7 @@
             "artist": "Vinay Chikkam",
             "alias": "",
             "position": "273",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU19 Subconscious Override",
@@ -4385,15 +3997,13 @@
             "artist": "Space gooose",
             "alias": "",
             "position": "274",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CW06 Repurposing Technician",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Engineer",
+            "type": "Creature \u2014 Human Engineer",
             "number": 17,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -4407,15 +4017,13 @@
             "artist": "Benjamin Ee",
             "alias": "",
             "position": "275",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Jihito, Wartorn Survivalist",
             "color": "WBG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Rebel Archer",
+            "type": "Legendary Creature \u2014 Human Rebel Archer",
             "number": 217,
             "color_identity": "WBG",
             "cost": "{3}{W}{B}{G}",
@@ -4429,9 +4037,7 @@
             "artist": "Sopha/Soophu",
             "alias": "",
             "position": "276",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CG17 Clean Shot",
@@ -4451,15 +4057,13 @@
             "artist": "John Powell",
             "alias": "",
             "position": "277",
-            "notes": "Removal",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "Removal"
         },
         {
             "card_name": "RM02 Curse of the Persistent",
             "color": "WB",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura Curse",
+            "type": "Enchantment \u2014 Aura Curse",
             "number": 221,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -4473,9 +4077,7 @@
             "artist": "",
             "alias": "",
             "position": "278",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "CU10 Cached Dataset",
@@ -4495,9 +4097,7 @@
             "artist": "Georgi Simeonov",
             "alias": "",
             "position": "279",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Glimpses of Infinity",
@@ -4517,9 +4117,7 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "280",
-            "notes": "WB",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "WB"
         },
         {
             "card_name": "UW11 Remove Innovation",
@@ -4539,15 +4137,13 @@
             "artist": "Adam Schumpert",
             "alias": "",
             "position": "281",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "UR09 Ionized Pulse Rifle",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 164,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4561,9 +4157,7 @@
             "artist": "",
             "alias": "",
             "position": "282",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "RM01 Infinitize",
@@ -4573,7 +4167,7 @@
             "number": 216,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "Exile any number of nonland permanents you control. For each permanent exiled this way, create a token that's a copy of it, except it isn't legendary and is all colors.\nYou may cast one of the exiled cards without paying its mana cost.\n[i]Channel[/i] \u2013 {1}{WU}, Discard Infinitize: Exile target creature you control, then create a token that's a copy of it, except it isn't legendary.",
+            "rules_text": "Exile any number of nonland permanents you control. For each permanent exiled this way, create a token that's a copy of it, except it isn't legendary and is all colors.\nYou may cast one of the exiled cards without paying its mana cost.\n[i]Channel[/i] \u2014 {1}{WU}, Discard Infinitize: Exile target creature you control, then create a token that's a copy of it, except it isn't legendary.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4583,9 +4177,8 @@
             "artist": "Scott Uminga",
             "alias": "",
             "position": "283",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         }
-    ]
+    ],
+    "version": 1
 }

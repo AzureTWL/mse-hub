@@ -1,0 +1,2703 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "UW01 Sparkworker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/0.png"
+			}
+		},
+		{
+			"name": "CW02 Frontline Fodder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/1.png"
+			}
+		},
+		{
+			"name": "CW03 Order Priest",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Priest",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/2.png"
+			}
+		},
+		{
+			"name": "CW04 Drudging Mechanist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Engineer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/3.png"
+			}
+		},
+		{
+			"name": "CW05 Oppressive Enforcer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/4.png"
+			}
+		},
+		{
+			"name": "CW07 Bronze-Halo Aspirant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/5.png"
+			}
+		},
+		{
+			"name": "CW08 Community Warden",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/6.png"
+			}
+		},
+		{
+			"name": "CW09 Aerial Convoy Escort",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/7.png"
+			}
+		},
+		{
+			"name": "CW10 Field Medic Veteran",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/8.png"
+			}
+		},
+		{
+			"name": "CW11 Halberd-Line Enforcer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/9.png"
+			}
+		},
+		{
+			"name": "CW12 Rushdown Sergeant",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/10.png"
+			}
+		},
+		{
+			"name": "CW13 Crush Under the Order",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/11.png"
+			}
+		},
+		{
+			"name": "CW14 Lockdown Systems",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/12.png"
+			}
+		},
+		{
+			"name": "CW15 Neutralization Protocol",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/13.png"
+			}
+		},
+		{
+			"name": "CW16 Alley Evasion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/14.png"
+			}
+		},
+		{
+			"name": "CW17 Order-Issued Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/15.png"
+			}
+		},
+		{
+			"name": "CW18 Mobilize the Civilians",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/16.png"
+			}
+		},
+		{
+			"name": "CW19 Orderly Deconstruction",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/17.png"
+			}
+		},
+		{
+			"name": "UU01 Glitchphaser",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/18.png"
+			}
+		},
+		{
+			"name": "CU02 Data Skimmer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Azure Drone",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/19.png"
+			}
+		},
+		{
+			"name": "CU03 Scrap-Node Hermit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Engineer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/20.png"
+			}
+		},
+		{
+			"name": "CU04 Neuroline Coder",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Hacker",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/21.png"
+			}
+		},
+		{
+			"name": "CU05 Predictive Patternist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Azure Hacker",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/22.png"
+			}
+		},
+		{
+			"name": "CU06 Latency Disruptor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Hacker",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/23.png"
+			}
+		},
+		{
+			"name": "CU07 Chassis Salvager",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Mechanic",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/24.png"
+			}
+		},
+		{
+			"name": "CU08 Covert Compiler",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Azure Drone",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/25.png"
+			}
+		},
+		{
+			"name": "CU09 Deep-Vault Watcher",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Azure Construct",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/26.png"
+			}
+		},
+		{
+			"name": "CU11 System Immunity",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/27.png"
+			}
+		},
+		{
+			"name": "CU12 You Find a Vulnerability",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/28.png"
+			}
+		},
+		{
+			"name": "CU13 System Freeze",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/29.png"
+			}
+		},
+		{
+			"name": "CU14 Exploit the System",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/30.png"
+			}
+		},
+		{
+			"name": "CU15 Data Override",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/31.png"
+			}
+		},
+		{
+			"name": "CU16 Displaced Data",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/32.png"
+			}
+		},
+		{
+			"name": "CU17 Overclock Pulse",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/33.png"
+			}
+		},
+		{
+			"name": "CU18 Neural Jam",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/34.png"
+			}
+		},
+		{
+			"name": "UB01 Bonecacher",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/35.png"
+			}
+		},
+		{
+			"name": "CB02 Sparkscour Hacker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Hacker",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/36.png"
+			}
+		},
+		{
+			"name": "CB03 Corrupt Court Official",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/37.png"
+			}
+		},
+		{
+			"name": "CB04 Memory-Gutter Scraper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Azure Processor",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/38.png"
+			}
+		},
+		{
+			"name": "CB05 Processor Salvager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Azure Processor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/39.png"
+			}
+		},
+		{
+			"name": "CB06 Hierarch Enforcer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/40.png"
+			}
+		},
+		{
+			"name": "CB07 Bloodcircuit Marauder",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/41.png"
+			}
+		},
+		{
+			"name": "CB08 Projection Spiritcaller",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Azure Illusion",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/42.png"
+			}
+		},
+		{
+			"name": "CB09 Lobeharvester Drone",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/43.png"
+			}
+		},
+		{
+			"name": "CB10 Order Elite Juggernaut",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact Creature — Juggernaut",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/44.png"
+			}
+		},
+		{
+			"name": "CB11 Terminate Process",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/45.png"
+			}
+		},
+		{
+			"name": "CB12 Debug Purge",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/46.png"
+			}
+		},
+		{
+			"name": "CB13 Order Raid",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/47.png"
+			}
+		},
+		{
+			"name": "CB14 Sever Link",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/48.png"
+			}
+		},
+		{
+			"name": "CB15 Exploit the Vulnerability",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/49.png"
+			}
+		},
+		{
+			"name": "CB16 Deconstruct and Recompile",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/50.png"
+			}
+		},
+		{
+			"name": "CB17 Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/51.png"
+			}
+		},
+		{
+			"name": "CB18 Synthetic Vigor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/52.png"
+			}
+		},
+		{
+			"name": "CB19 Reusable Protocol",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery
+",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/53.png"
+			}
+		},
+		{
+			"name": "UR01 Flamejetter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/54.png"
+			}
+		},
+		{
+			"name": "CR02 Boneplate Apprentice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Mechanic",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/55.png"
+			}
+		},
+		{
+			"name": "CR03 Patchling Slasher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Azure Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/56.png"
+			}
+		},
+		{
+			"name": "CR04 Rustcleaver Ronin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/57.png"
+			}
+		},
+		{
+			"name": "CR06 Forgerush Artillerist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/58.png"
+			}
+		},
+		{
+			"name": "CR07 Corepulse Analyst",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Azure",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/59.png"
+			}
+		},
+		{
+			"name": "CR09 Ashframe Slasher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/60.png"
+			}
+		},
+		{
+			"name": "CR10 Detonation Crawler",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/61.png"
+			}
+		},
+		{
+			"name": "CR11 Wall Shot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/62.png"
+			}
+		},
+		{
+			"name": "CR12 Rage of the Scorchlink",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/63.png"
+			}
+		},
+		{
+			"name": "CR13 Logic Corruption",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/64.png"
+			}
+		},
+		{
+			"name": "CR14 Overclocked Wave",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/65.png"
+			}
+		},
+		{
+			"name": "CR15 Terminal Reroute",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/66.png"
+			}
+		},
+		{
+			"name": "CR16 Auto-Forged Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/67.png"
+			}
+		},
+		{
+			"name": "CR17 Adrenaline Spike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/68.png"
+			}
+		},
+		{
+			"name": "CR18 Targeting Jammer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/69.png"
+			}
+		},
+		{
+			"name": "CR19 Flare Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/70.png"
+			}
+		},
+		{
+			"name": "UG01 Leafcoiler",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/71.png"
+			}
+		},
+		{
+			"name": "CG02 District Bloomkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/72.png"
+			}
+		},
+		{
+			"name": "CG03 Scorchrush Mechasuit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/73.png"
+			}
+		},
+		{
+			"name": "CG04 Pipe-Tunnel Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/74.png"
+			}
+		},
+		{
+			"name": "CG05 Neuroline Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Hacker",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/75.png"
+			}
+		},
+		{
+			"name": "CG06 Corpseline Picker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/76.png"
+			}
+		},
+		{
+			"name": "CG07 Sawtooth Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Beast Construct",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/77.png"
+			}
+		},
+		{
+			"name": "CG08 Vitalcore Forger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Minion Citizen",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/78.png"
+			}
+		},
+		{
+			"name": "CG09 Copper Elemental",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/79.png"
+			}
+		},
+		{
+			"name": "CG10 Corpseline Elemental",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/80.png"
+			}
+		},
+		{
+			"name": "CG11 Scorchrush Mentor",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/81.png"
+			}
+		},
+		{
+			"name": "CG12 Datafeed Skirmish",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/82.png"
+			}
+		},
+		{
+			"name": "CG13 Overclock the Flesh",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/83.png"
+			}
+		},
+		{
+			"name": "CG14 Unified Rush",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/84.png"
+			}
+		},
+		{
+			"name": "CG15 Compile the System",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/85.png"
+			}
+		},
+		{
+			"name": "CG16 Biocircuit Enhancement",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/86.png"
+			}
+		},
+		{
+			"name": "CG18 Lifecode Creation",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/87.png"
+			}
+		},
+		{
+			"name": "CG19 System Purge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/88.png"
+			}
+		},
+		{
+			"name": "CW01 Kakeru's Understudy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Engineer",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/89.png"
+			}
+		},
+		{
+			"name": "UW02 Order Extraction Transport",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/90.png"
+			}
+		},
+		{
+			"name": "UW10 Armed and Primed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/98.png"
+			}
+		},
+		{
+			"name": "CU01 Static Node",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Azure",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/99.png"
+			}
+		},
+		{
+			"name": "UU02 Spectra, Unblinking Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Azure Eye",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/100.png"
+			}
+		},
+		{
+			"name": "UU03 Nexus, Source Code",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact Creature — Azure Construct",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/101.png"
+			}
+		},
+		{
+			"name": "UU04 Walking Building",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/102.png"
+			}
+		},
+		{
+			"name": "UU05 Kaeto, Arcanomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Hacker",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/103.png"
+			}
+		},
+		{
+			"name": "UU06 Cura, Neuroline Ascendant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Artifact Creature — Azure Construct",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/104.png"
+			}
+		},
+		{
+			"name": "UU07 Capture Drones",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/105.png"
+			}
+		},
+		{
+			"name": "UU08 Cog to the Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/106.png"
+			}
+		},
+		{
+			"name": "UU09 Cargo Ship",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/107.png"
+			}
+		},
+		{
+			"name": "UU10 Keep Under Eyes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/108.png"
+			}
+		},
+		{
+			"name": "UU11 Cognitive Cacher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/109.png"
+			}
+		},
+		{
+			"name": "CB01 Hullcarver",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Robot Assassin",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/110.png"
+			}
+		},
+		{
+			"name": "UB02 Umbral Collar Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Priest",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/111.png"
+			}
+		},
+		{
+			"name": "UB09 Corpseline Barracks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/118.png"
+			}
+		},
+		{
+			"name": "UB11 Recorded Atrocities",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/120.png"
+			}
+		},
+		{
+			"name": "CR01 Sparkburn Drone",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/121.png"
+			}
+		},
+		{
+			"name": "UR02",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/122.png"
+			}
+		},
+		{
+			"name": "UR03 Rooftop Scouter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/124.png"
+			}
+		},
+		{
+			"name": "UR08 Recursive Protocol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/128.png"
+			}
+		},
+		{
+			"name": "UR10 The Corepulse, Discovered",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/129.png"
+			}
+		},
+		{
+			"name": "UR11 Retributory Fighters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/130.png"
+			}
+		},
+		{
+			"name": "CG01 Underground Alchemist",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/131.png"
+			}
+		},
+		{
+			"name": "UG09 Dredger's Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/139.png"
+			}
+		},
+		{
+			"name": "UG11 Lifecode Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/141.png"
+			}
+		},
+		{
+			"name": "RW01 Alarion, Husk of the Order",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/142.png"
+			}
+		},
+		{
+			"name": "RW07 Slice Down",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/148.png"
+			}
+		},
+		{
+			"name": "RU01 Fblthp, Terminally Lost",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Homunculus",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/149.png"
+			}
+		},
+		{
+			"name": "RU02 Phazer, Echo of Persistence",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Artifact Creature — Azure Construct",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/150.png"
+			}
+		},
+		{
+			"name": "RU03 Unsent Communication",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/151.png"
+			}
+		},
+		{
+			"name": "RU07 Hacker's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/155.png"
+			}
+		},
+		{
+			"name": "RB06 Self Reconstruction",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/161.png"
+			}
+		},
+		{
+			"name": "RB07 Invoke Despair",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/162.png"
+			}
+		},
+		{
+			"name": "RR01 Kaelen, Retributory Operative",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/163.png"
+			}
+		},
+		{
+			"name": "RR02 Kari, Speed Blitzer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/164.png"
+			}
+		},
+		{
+			"name": "RX06 Bound to Null",
+			"rarity": "rare",
+			"mana_cost": "{3}{C}{C}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/168.png"
+			}
+		},
+		{
+			"name": "RR06 Tagout",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/169.png"
+			}
+		},
+		{
+			"name": "RG07 System Unleashed",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/176.png"
+			}
+		},
+		{
+			"name": "MU01 Unit Zero, Rumi's Right Hand",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Artifact Creature — Azure Construct",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/179.png"
+			}
+		},
+		{
+			"name": "MU02 Rumi, Azurite General",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Rumi",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/180.png"
+			}
+		},
+		{
+			"name": "UM01 Azurite Betrayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact Creature — Azure Rogue",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/187.png"
+			}
+		},
+		{
+			"name": "UM01 RAM Drainer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Azure Processor",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/188.png"
+			}
+		},
+		{
+			"name": "UM01 Crimson Hacktivist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Hacker",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/189.png"
+			}
+		},
+		{
+			"name": "UM01 Scorchrush Anarchist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/190.png"
+			}
+		},
+		{
+			"name": "UM01 Cat Caller",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/191.png"
+			}
+		},
+		{
+			"name": "UM01 Order Keepers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/192.png"
+			}
+		},
+		{
+			"name": "UM01 Fracture Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Azure Engineer",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/193.png"
+			}
+		},
+		{
+			"name": "UM01 Graveyard Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Engineer",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/194.png"
+			}
+		},
+		{
+			"name": "UM01 Kakeru, Munitions Supplier",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Engineer",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/195.png"
+			}
+		},
+		{
+			"name": "UM01 Neuroline Constructor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact Creature — Azure Hacker",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/196.png"
+			}
+		},
+		{
+			"name": "RM01 Rumi, Aspiring Technician",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Hacker",
+			"collector_number": "219",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/WoA-files/img/197_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/197_front.png"
+			}
+		},
+		{
+			"name": "RM01 Nyxren, Void Caller",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Artifact Creature — Azure Processor",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/198.png"
+			}
+		},
+		{
+			"name": "RM01 Terralock, Ground Rewired",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Artifact Creature — Construct Druid",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/200.png"
+			}
+		},
+		{
+			"name": "RM01 Artifical Duplication",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/202.png"
+			}
+		},
+		{
+			"name": "RM01 Casualties of War",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/203.png"
+			}
+		},
+		{
+			"name": "CA02 Order-Sanctioned Juggernaut",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Juggernaut",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/206.png"
+			}
+		},
+		{
+			"name": "RX01 Battlefield Manufacturer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/207.png"
+			}
+		},
+		{
+			"name": "CA05 Azurite Geode",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/208.png"
+			}
+		},
+		{
+			"name": "CA03 Plasma-Fused Sphinx",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Sphinx Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/209.png"
+			}
+		},
+		{
+			"name": "CA01 Scrap-Scouter Drone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Drone",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/210.png"
+			}
+		},
+		{
+			"name": "CL01 Ember Nexus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/216.png"
+			}
+		},
+		{
+			"name": "UL01 Echoing Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/217.png"
+			}
+		},
+		{
+			"name": "UL02 Datafall Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/218.png"
+			}
+		},
+		{
+			"name": "UL03 Memory Garden",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/219.png"
+			}
+		},
+		{
+			"name": "UL04 Cached Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/220.png"
+			}
+		},
+		{
+			"name": "UL05 Daunting Expanse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/221.png"
+			}
+		},
+		{
+			"name": "UX01 Ornithopter",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/222.png"
+			}
+		},
+		{
+			"name": "CA04 Bone Saw",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/227.png"
+			}
+		},
+		{
+			"name": "RR07 Blacksmith's Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Class",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/232.png"
+			}
+		},
+		{
+			"name": "MX02 Hikaru, Catalyst In Between",
+			"rarity": "mythic",
+			"mana_cost": "{1}{C}{U}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/236.png"
+			}
+		},
+		{
+			"name": "MM01 Kakeru, General of Order",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Human Engineer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/237.png"
+			}
+		},
+		{
+			"name": "The Corepulse, Awakenened",
+			"rarity": "mythic",
+			"mana_cost": "{4}{C/R}{C/U}",
+			"type": "Legendary Artifact Planeswalker — Corepulse",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/238.png"
+			}
+		},
+		{
+			"name": "MX05 Alarion, Face of The Order",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Legendary Creature — Human Horror",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/239.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/240.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/241.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/242.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/243.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/244.png"
+			}
+		},
+		{
+			"name": "CL03 Prism Bastion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/245.png"
+			}
+		},
+		{
+			"name": "CL02 Null Crucible",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/246.png"
+			}
+		},
+		{
+			"name": "CL04 Quantum Spire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/247.png"
+			}
+		},
+		{
+			"name": "CL05 Verdant Circuit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/248.png"
+			}
+		},
+		{
+			"name": "RL06 Chapel of the Nullbody",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/249.png"
+			}
+		},
+		{
+			"name": "RL02 Shore of the Skyglass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/250.png"
+			}
+		},
+		{
+			"name": "RL03 Tunnels of the Mindhusk",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/251.png"
+			}
+		},
+		{
+			"name": "RL04 Ruins of the Dreamforge",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/252.png"
+			}
+		},
+		{
+			"name": "RL05 Santuary of the Lifecode",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/253.png"
+			}
+		},
+		{
+			"name": "RL07 Refraction of the Singularity",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/254.png"
+			}
+		},
+		{
+			"name": "RL09 Spire of the Ordersoul",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/255.png"
+			}
+		},
+		{
+			"name": "RL08 Garden of the Nullseed",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/256.png"
+			}
+		},
+		{
+			"name": "RL10 Laboratory of the Echobloom",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/257.png"
+			}
+		},
+		{
+			"name": "RL01 Grove of the Burnwillows",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/258.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Wastes",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/259.png"
+			}
+		},
+		{
+			"name": "CR05 Scorchlink Assassin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/260.png"
+			}
+		},
+		{
+			"name": "CR08 Scorchrush Juggernaut",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Juggernaut",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/261.png"
+			}
+		},
+		{
+			"name": "CL06 Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/262.png"
+			}
+		},
+		{
+			"name": "CL07 Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/263.png"
+			}
+		},
+		{
+			"name": "CL08 Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/264.png"
+			}
+		},
+		{
+			"name": "CL11 Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/265.png"
+			}
+		},
+		{
+			"name": "CL12 Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/266.png"
+			}
+		},
+		{
+			"name": "CL14 Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/267.png"
+			}
+		},
+		{
+			"name": "CL13 Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/268.png"
+			}
+		},
+		{
+			"name": "CL09 Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/269.png"
+			}
+		},
+		{
+			"name": "CL10 Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/270.png"
+			}
+		},
+		{
+			"name": "CL15 Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/271.png"
+			}
+		},
+		{
+			"name": "CA07 Circuitstone Systems",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/272.png"
+			}
+		},
+		{
+			"name": "CA06 Candy Chip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/273.png"
+			}
+		},
+		{
+			"name": "CU19 Subconscious Override",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/274.png"
+			}
+		},
+		{
+			"name": "CW06 Repurposing Technician",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Engineer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/275.png"
+			}
+		},
+		{
+			"name": "RM01 Jihito, Wartorn Survivalist",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Human Rebel Archer",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/276.png"
+			}
+		},
+		{
+			"name": "CG17 Clean Shot",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/277.png"
+			}
+		},
+		{
+			"name": "RM02 Curse of the Persistent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/278.png"
+			}
+		},
+		{
+			"name": "CU10 Cached Dataset",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/279.png"
+			}
+		},
+		{
+			"name": "RM01 Glimpses of Infinity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/280.png"
+			}
+		},
+		{
+			"name": "UW11 Remove Innovation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/281.png"
+			}
+		},
+		{
+			"name": "UR09 Ionized Pulse Rifle",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/282.png"
+			}
+		},
+		{
+			"name": "RM01 Infinitize",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/WoA-files/img/283.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RW01 Alarion, Husk of the Order
+	2 RW07 Slice Down
+	2 RU01 Fblthp, Terminally Lost
+	2 RU02 Phazer, Echo of Persistence
+	2 RU03 Unsent Communication
+	2 RU07 Hacker's Legacy
+	2 RB06 Self Reconstruction
+	2 RB07 Invoke Despair
+	2 RR01 Kaelen, Retributory Operative
+	2 RR02 Kari, Speed Blitzer
+	2 RX06 Bound to Null
+	2 RR06 Tagout
+	2 RG07 System Unleashed
+	1 MU01 Unit Zero, Rumi's Right Hand
+	1 MU02 Rumi, Azurite General
+	2 RM01 Rumi, Aspiring Technician
+	2 RM01 Nyxren, Void Caller
+	2 RM01 Terralock, Ground Rewired
+	2 RM01 Artifical Duplication
+	2 RM01 Casualties of War
+	2 RX01 Battlefield Manufacturer
+	2 RR07 Blacksmith's Legacy
+	1 MX02 Hikaru, Catalyst In Between
+	1 MM01 Kakeru, General of Order
+	1 The Corepulse, Awakenened
+	1 MX05 Alarion, Face of The Order
+	2 RL06 Chapel of the Nullbody
+	2 RL02 Shore of the Skyglass
+	2 RL03 Tunnels of the Mindhusk
+	2 RL04 Ruins of the Dreamforge
+	2 RL05 Santuary of the Lifecode
+	2 RL07 Refraction of the Singularity
+	2 RL09 Spire of the Ordersoul
+	2 RL08 Garden of the Nullseed
+	2 RL10 Laboratory of the Echobloom
+	2 RL01 Grove of the Burnwillows
+	2 RM01 Jihito, Wartorn Survivalist
+	2 RM02 Curse of the Persistent
+	2 RM01 Glimpses of Infinity
+	2 RM01 Infinitize
+[uncommon(3)]
+	4 UW01 Sparkworker
+	4 UU01 Glitchphaser
+	4 UB01 Bonecacher
+	4 UR01 Flamejetter
+	4 UG01 Leafcoiler
+	4 UW02 Order Extraction Transport
+	4 UW10 Armed and Primed
+	4 UU02 Spectra, Unblinking Eye
+	4 UU03 Nexus, Source Code
+	4 UU04 Walking Building
+	4 UU05 Kaeto, Arcanomancer
+	4 UU06 Cura, Neuroline Ascendant
+	4 UU07 Capture Drones
+	4 UU08 Cog to the Machine
+	4 UU09 Cargo Ship
+	4 UU10 Keep Under Eyes
+	4 UU11 Cognitive Cacher
+	4 UB02 Umbral Collar Zealot
+	4 UB09 Corpseline Barracks
+	4 UB11 Recorded Atrocities
+	4 UR02
+	4 UR03 Rooftop Scouter
+	4 UR08 Recursive Protocol
+	4 UR10 The Corepulse, Discovered
+	4 UR11 Retributory Fighters
+	4 UG09 Dredger's Insight
+	4 UG11 Lifecode Bloom
+	4 UM01 Azurite Betrayer
+	4 UM01 RAM Drainer
+	4 UM01 Crimson Hacktivist
+	4 UM01 Scorchrush Anarchist
+	4 UM01 Cat Caller
+	4 UM01 Order Keepers
+	4 UM01 Fracture Engineer
+	4 UM01 Graveyard Technician
+	4 UM01 Kakeru, Munitions Supplier
+	4 UM01 Neuroline Constructor
+	4 UL01 Echoing Shrine
+	4 UL02 Datafall Ruins
+	4 UL03 Memory Garden
+	4 UL04 Cached Fortress
+	4 UL05 Daunting Expanse
+	4 UX01 Ornithopter
+	4 UW11 Remove Innovation
+	4 UR09 Ionized Pulse Rifle
+[common(7)]
+	8 CW02 Frontline Fodder
+	8 CW03 Order Priest
+	8 CW04 Drudging Mechanist
+	8 CW05 Oppressive Enforcer
+	8 CW07 Bronze-Halo Aspirant
+	8 CW08 Community Warden
+	8 CW09 Aerial Convoy Escort
+	8 CW10 Field Medic Veteran
+	8 CW11 Halberd-Line Enforcer
+	8 CW12 Rushdown Sergeant
+	8 CW13 Crush Under the Order
+	8 CW14 Lockdown Systems
+	8 CW15 Neutralization Protocol
+	8 CW16 Alley Evasion
+	8 CW17 Order-Issued Blade
+	8 CW18 Mobilize the Civilians
+	8 CW19 Orderly Deconstruction
+	8 CU02 Data Skimmer
+	8 CU03 Scrap-Node Hermit
+	8 CU04 Neuroline Coder
+	8 CU05 Predictive Patternist
+	8 CU06 Latency Disruptor
+	8 CU07 Chassis Salvager
+	8 CU08 Covert Compiler
+	8 CU09 Deep-Vault Watcher
+	8 CU11 System Immunity
+	8 CU12 You Find a Vulnerability
+	8 CU13 System Freeze
+	8 CU14 Exploit the System
+	8 CU15 Data Override
+	8 CU16 Displaced Data
+	8 CU17 Overclock Pulse
+	8 CU18 Neural Jam
+	8 CB02 Sparkscour Hacker
+	8 CB03 Corrupt Court Official
+	8 CB04 Memory-Gutter Scraper
+	8 CB05 Processor Salvager
+	8 CB06 Hierarch Enforcer
+	8 CB07 Bloodcircuit Marauder
+	8 CB08 Projection Spiritcaller
+	8 CB09 Lobeharvester Drone
+	8 CB10 Order Elite Juggernaut
+	8 CB11 Terminate Process
+	8 CB12 Debug Purge
+	8 CB13 Order Raid
+	8 CB14 Sever Link
+	8 CB15 Exploit the Vulnerability
+	8 CB16 Deconstruct and Recompile
+	8 CB17 Duress
+	8 CB18 Synthetic Vigor
+	8 CB19 Reusable Protocol
+	8 CR02 Boneplate Apprentice
+	8 CR03 Patchling Slasher
+	8 CR04 Rustcleaver Ronin
+	8 CR06 Forgerush Artillerist
+	8 CR07 Corepulse Analyst
+	8 CR09 Ashframe Slasher
+	8 CR10 Detonation Crawler
+	8 CR11 Wall Shot
+	8 CR12 Rage of the Scorchlink
+	8 CR13 Logic Corruption
+	8 CR14 Overclocked Wave
+	8 CR15 Terminal Reroute
+	8 CR16 Auto-Forged Blade
+	8 CR17 Adrenaline Spike
+	8 CR18 Targeting Jammer
+	8 CR19 Flare Shot
+	8 CG02 District Bloomkeeper
+	8 CG03 Scorchrush Mechasuit
+	8 CG04 Pipe-Tunnel Scavenger
+	8 CG05 Neuroline Guardian
+	8 CG06 Corpseline Picker
+	8 CG07 Sawtooth Charger
+	8 CG08 Vitalcore Forger
+	8 CG09 Copper Elemental
+	8 CG10 Corpseline Elemental
+	8 CG11 Scorchrush Mentor
+	8 CG12 Datafeed Skirmish
+	8 CG13 Overclock the Flesh
+	8 CG14 Unified Rush
+	8 CG15 Compile the System
+	8 CG16 Biocircuit Enhancement
+	8 CG18 Lifecode Creation
+	8 CG19 System Purge
+	8 CW01 Kakeru's Understudy
+	8 CU01 Static Node
+	8 CB01 Hullcarver
+	8 CR01 Sparkburn Drone
+	8 CG01 Underground Alchemist
+	8 CA02 Order-Sanctioned Juggernaut
+	8 CA05 Azurite Geode
+	8 CA03 Plasma-Fused Sphinx
+	8 CA01 Scrap-Scouter Drone
+	8 CL01 Ember Nexus
+	8 CA04 Bone Saw
+	8 CL03 Prism Bastion
+	8 CL02 Null Crucible
+	8 CL04 Quantum Spire
+	8 CL05 Verdant Circuit
+	8 CR05 Scorchlink Assassin
+	8 CR08 Scorchrush Juggernaut
+	8 CL06 Bloodfell Caves
+	8 CL07 Blossoming Sands
+	8 CL08 Dismal Backwater
+	8 CL11 Scoured Barrens
+	8 CL12 Swiftwater Cliffs
+	8 CL14 Tranquil Cove
+	8 CL13 Thornwood Falls
+	8 CL09 Jungle Hollow
+	8 CL10 Rugged Highlands
+	8 CL15 Wind-Scarred Crag
+	8 CA07 Circuitstone Systems
+	8 CA06 Candy Chip
+	8 CU19 Subconscious Override
+	8 CW06 Repurposing Technician
+	8 CG17 Clean Shot
+	8 CU10 Cached Dataset
+[foil(1)]
+	6 UW01 Sparkworker
+	12 CW02 Frontline Fodder
+	12 CW03 Order Priest
+	12 CW04 Drudging Mechanist
+	12 CW05 Oppressive Enforcer
+	12 CW07 Bronze-Halo Aspirant
+	12 CW08 Community Warden
+	12 CW09 Aerial Convoy Escort
+	12 CW10 Field Medic Veteran
+	12 CW11 Halberd-Line Enforcer
+	12 CW12 Rushdown Sergeant
+	12 CW13 Crush Under the Order
+	12 CW14 Lockdown Systems
+	12 CW15 Neutralization Protocol
+	12 CW16 Alley Evasion
+	12 CW17 Order-Issued Blade
+	12 CW18 Mobilize the Civilians
+	12 CW19 Orderly Deconstruction
+	6 UU01 Glitchphaser
+	12 CU02 Data Skimmer
+	12 CU03 Scrap-Node Hermit
+	12 CU04 Neuroline Coder
+	12 CU05 Predictive Patternist
+	12 CU06 Latency Disruptor
+	12 CU07 Chassis Salvager
+	12 CU08 Covert Compiler
+	12 CU09 Deep-Vault Watcher
+	12 CU11 System Immunity
+	12 CU12 You Find a Vulnerability
+	12 CU13 System Freeze
+	12 CU14 Exploit the System
+	12 CU15 Data Override
+	12 CU16 Displaced Data
+	12 CU17 Overclock Pulse
+	12 CU18 Neural Jam
+	6 UB01 Bonecacher
+	12 CB02 Sparkscour Hacker
+	12 CB03 Corrupt Court Official
+	12 CB04 Memory-Gutter Scraper
+	12 CB05 Processor Salvager
+	12 CB06 Hierarch Enforcer
+	12 CB07 Bloodcircuit Marauder
+	12 CB08 Projection Spiritcaller
+	12 CB09 Lobeharvester Drone
+	12 CB10 Order Elite Juggernaut
+	12 CB11 Terminate Process
+	12 CB12 Debug Purge
+	12 CB13 Order Raid
+	12 CB14 Sever Link
+	12 CB15 Exploit the Vulnerability
+	12 CB16 Deconstruct and Recompile
+	12 CB17 Duress
+	12 CB18 Synthetic Vigor
+	12 CB19 Reusable Protocol
+	6 UR01 Flamejetter
+	12 CR02 Boneplate Apprentice
+	12 CR03 Patchling Slasher
+	12 CR04 Rustcleaver Ronin
+	12 CR06 Forgerush Artillerist
+	12 CR07 Corepulse Analyst
+	12 CR09 Ashframe Slasher
+	12 CR10 Detonation Crawler
+	12 CR11 Wall Shot
+	12 CR12 Rage of the Scorchlink
+	12 CR13 Logic Corruption
+	12 CR14 Overclocked Wave
+	12 CR15 Terminal Reroute
+	12 CR16 Auto-Forged Blade
+	12 CR17 Adrenaline Spike
+	12 CR18 Targeting Jammer
+	12 CR19 Flare Shot
+	6 UG01 Leafcoiler
+	12 CG02 District Bloomkeeper
+	12 CG03 Scorchrush Mechasuit
+	12 CG04 Pipe-Tunnel Scavenger
+	12 CG05 Neuroline Guardian
+	12 CG06 Corpseline Picker
+	12 CG07 Sawtooth Charger
+	12 CG08 Vitalcore Forger
+	12 CG09 Copper Elemental
+	12 CG10 Corpseline Elemental
+	12 CG11 Scorchrush Mentor
+	12 CG12 Datafeed Skirmish
+	12 CG13 Overclock the Flesh
+	12 CG14 Unified Rush
+	12 CG15 Compile the System
+	12 CG16 Biocircuit Enhancement
+	12 CG18 Lifecode Creation
+	12 CG19 System Purge
+	12 CW01 Kakeru's Understudy
+	6 UW02 Order Extraction Transport
+	6 UW10 Armed and Primed
+	12 CU01 Static Node
+	6 UU02 Spectra, Unblinking Eye
+	6 UU03 Nexus, Source Code
+	6 UU04 Walking Building
+	6 UU05 Kaeto, Arcanomancer
+	6 UU06 Cura, Neuroline Ascendant
+	6 UU07 Capture Drones
+	6 UU08 Cog to the Machine
+	6 UU09 Cargo Ship
+	6 UU10 Keep Under Eyes
+	6 UU11 Cognitive Cacher
+	12 CB01 Hullcarver
+	6 UB02 Umbral Collar Zealot
+	6 UB09 Corpseline Barracks
+	6 UB11 Recorded Atrocities
+	12 CR01 Sparkburn Drone
+	6 UR02
+	6 UR03 Rooftop Scouter
+	6 UR08 Recursive Protocol
+	6 UR10 The Corepulse, Discovered
+	6 UR11 Retributory Fighters
+	12 CG01 Underground Alchemist
+	6 UG09 Dredger's Insight
+	6 UG11 Lifecode Bloom
+	2 RW01 Alarion, Husk of the Order
+	2 RW07 Slice Down
+	2 RU01 Fblthp, Terminally Lost
+	2 RU02 Phazer, Echo of Persistence
+	2 RU03 Unsent Communication
+	2 RU07 Hacker's Legacy
+	2 RB06 Self Reconstruction
+	2 RB07 Invoke Despair
+	2 RR01 Kaelen, Retributory Operative
+	2 RR02 Kari, Speed Blitzer
+	2 RX06 Bound to Null
+	2 RR06 Tagout
+	2 RG07 System Unleashed
+	1 MU01 Unit Zero, Rumi's Right Hand
+	1 MU02 Rumi, Azurite General
+	6 UM01 Azurite Betrayer
+	6 UM01 RAM Drainer
+	6 UM01 Crimson Hacktivist
+	6 UM01 Scorchrush Anarchist
+	6 UM01 Cat Caller
+	6 UM01 Order Keepers
+	6 UM01 Fracture Engineer
+	6 UM01 Graveyard Technician
+	6 UM01 Kakeru, Munitions Supplier
+	6 UM01 Neuroline Constructor
+	2 RM01 Rumi, Aspiring Technician
+	2 RM01 Nyxren, Void Caller
+	2 RM01 Terralock, Ground Rewired
+	2 RM01 Artifical Duplication
+	2 RM01 Casualties of War
+	12 CA02 Order-Sanctioned Juggernaut
+	2 RX01 Battlefield Manufacturer
+	12 CA05 Azurite Geode
+	12 CA03 Plasma-Fused Sphinx
+	12 CA01 Scrap-Scouter Drone
+	12 CL01 Ember Nexus
+	6 UL01 Echoing Shrine
+	6 UL02 Datafall Ruins
+	6 UL03 Memory Garden
+	6 UL04 Cached Fortress
+	6 UL05 Daunting Expanse
+	6 UX01 Ornithopter
+	12 CA04 Bone Saw
+	2 RR07 Blacksmith's Legacy
+	1 MX02 Hikaru, Catalyst In Between
+	1 MM01 Kakeru, General of Order
+	1 The Corepulse, Awakenened
+	1 MX05 Alarion, Face of The Order
+	12 CL03 Prism Bastion
+	12 CL02 Null Crucible
+	12 CL04 Quantum Spire
+	12 CL05 Verdant Circuit
+	2 RL06 Chapel of the Nullbody
+	2 RL02 Shore of the Skyglass
+	2 RL03 Tunnels of the Mindhusk
+	2 RL04 Ruins of the Dreamforge
+	2 RL05 Santuary of the Lifecode
+	2 RL07 Refraction of the Singularity
+	2 RL09 Spire of the Ordersoul
+	2 RL08 Garden of the Nullseed
+	2 RL10 Laboratory of the Echobloom
+	2 RL01 Grove of the Burnwillows
+	12 CR05 Scorchlink Assassin
+	12 CR08 Scorchrush Juggernaut
+	12 CL06 Bloodfell Caves
+	12 CL07 Blossoming Sands
+	12 CL08 Dismal Backwater
+	12 CL11 Scoured Barrens
+	12 CL12 Swiftwater Cliffs
+	12 CL14 Tranquil Cove
+	12 CL13 Thornwood Falls
+	12 CL09 Jungle Hollow
+	12 CL10 Rugged Highlands
+	12 CL15 Wind-Scarred Crag
+	12 CA07 Circuitstone Systems
+	12 CA06 Candy Chip
+	12 CU19 Subconscious Override
+	12 CW06 Repurposing Technician
+	2 RM01 Jihito, Wartorn Survivalist
+	12 CG17 Clean Shot
+	2 RM02 Curse of the Persistent
+	12 CU10 Cached Dataset
+	2 RM01 Glimpses of Infinity
+	6 UW11 Remove Innovation
+	6 UR09 Ionized Pulse Rifle
+	2 RM01 Infinitize
+[wildcard(1)]
+	15 UW01 Sparkworker
+	6 CW02 Frontline Fodder
+	6 CW03 Order Priest
+	6 CW04 Drudging Mechanist
+	6 CW05 Oppressive Enforcer
+	6 CW07 Bronze-Halo Aspirant
+	6 CW08 Community Warden
+	6 CW09 Aerial Convoy Escort
+	6 CW10 Field Medic Veteran
+	6 CW11 Halberd-Line Enforcer
+	6 CW12 Rushdown Sergeant
+	6 CW13 Crush Under the Order
+	6 CW14 Lockdown Systems
+	6 CW15 Neutralization Protocol
+	6 CW16 Alley Evasion
+	6 CW17 Order-Issued Blade
+	6 CW18 Mobilize the Civilians
+	6 CW19 Orderly Deconstruction
+	15 UU01 Glitchphaser
+	6 CU02 Data Skimmer
+	6 CU03 Scrap-Node Hermit
+	6 CU04 Neuroline Coder
+	6 CU05 Predictive Patternist
+	6 CU06 Latency Disruptor
+	6 CU07 Chassis Salvager
+	6 CU08 Covert Compiler
+	6 CU09 Deep-Vault Watcher
+	6 CU11 System Immunity
+	6 CU12 You Find a Vulnerability
+	6 CU13 System Freeze
+	6 CU14 Exploit the System
+	6 CU15 Data Override
+	6 CU16 Displaced Data
+	6 CU17 Overclock Pulse
+	6 CU18 Neural Jam
+	15 UB01 Bonecacher
+	6 CB02 Sparkscour Hacker
+	6 CB03 Corrupt Court Official
+	6 CB04 Memory-Gutter Scraper
+	6 CB05 Processor Salvager
+	6 CB06 Hierarch Enforcer
+	6 CB07 Bloodcircuit Marauder
+	6 CB08 Projection Spiritcaller
+	6 CB09 Lobeharvester Drone
+	6 CB10 Order Elite Juggernaut
+	6 CB11 Terminate Process
+	6 CB12 Debug Purge
+	6 CB13 Order Raid
+	6 CB14 Sever Link
+	6 CB15 Exploit the Vulnerability
+	6 CB16 Deconstruct and Recompile
+	6 CB17 Duress
+	6 CB18 Synthetic Vigor
+	6 CB19 Reusable Protocol
+	15 UR01 Flamejetter
+	6 CR02 Boneplate Apprentice
+	6 CR03 Patchling Slasher
+	6 CR04 Rustcleaver Ronin
+	6 CR06 Forgerush Artillerist
+	6 CR07 Corepulse Analyst
+	6 CR09 Ashframe Slasher
+	6 CR10 Detonation Crawler
+	6 CR11 Wall Shot
+	6 CR12 Rage of the Scorchlink
+	6 CR13 Logic Corruption
+	6 CR14 Overclocked Wave
+	6 CR15 Terminal Reroute
+	6 CR16 Auto-Forged Blade
+	6 CR17 Adrenaline Spike
+	6 CR18 Targeting Jammer
+	6 CR19 Flare Shot
+	15 UG01 Leafcoiler
+	6 CG02 District Bloomkeeper
+	6 CG03 Scorchrush Mechasuit
+	6 CG04 Pipe-Tunnel Scavenger
+	6 CG05 Neuroline Guardian
+	6 CG06 Corpseline Picker
+	6 CG07 Sawtooth Charger
+	6 CG08 Vitalcore Forger
+	6 CG09 Copper Elemental
+	6 CG10 Corpseline Elemental
+	6 CG11 Scorchrush Mentor
+	6 CG12 Datafeed Skirmish
+	6 CG13 Overclock the Flesh
+	6 CG14 Unified Rush
+	6 CG15 Compile the System
+	6 CG16 Biocircuit Enhancement
+	6 CG18 Lifecode Creation
+	6 CG19 System Purge
+	6 CW01 Kakeru's Understudy
+	15 UW02 Order Extraction Transport
+	15 UW10 Armed and Primed
+	6 CU01 Static Node
+	15 UU02 Spectra, Unblinking Eye
+	15 UU03 Nexus, Source Code
+	15 UU04 Walking Building
+	15 UU05 Kaeto, Arcanomancer
+	15 UU06 Cura, Neuroline Ascendant
+	15 UU07 Capture Drones
+	15 UU08 Cog to the Machine
+	15 UU09 Cargo Ship
+	15 UU10 Keep Under Eyes
+	15 UU11 Cognitive Cacher
+	6 CB01 Hullcarver
+	15 UB02 Umbral Collar Zealot
+	15 UB09 Corpseline Barracks
+	15 UB11 Recorded Atrocities
+	6 CR01 Sparkburn Drone
+	15 UR02
+	15 UR03 Rooftop Scouter
+	15 UR08 Recursive Protocol
+	15 UR10 The Corepulse, Discovered
+	15 UR11 Retributory Fighters
+	6 CG01 Underground Alchemist
+	15 UG09 Dredger's Insight
+	15 UG11 Lifecode Bloom
+	7 RW01 Alarion, Husk of the Order
+	7 RW07 Slice Down
+	7 RU01 Fblthp, Terminally Lost
+	7 RU02 Phazer, Echo of Persistence
+	7 RU03 Unsent Communication
+	7 RU07 Hacker's Legacy
+	7 RB06 Self Reconstruction
+	7 RB07 Invoke Despair
+	7 RR01 Kaelen, Retributory Operative
+	7 RR02 Kari, Speed Blitzer
+	7 RX06 Bound to Null
+	7 RR06 Tagout
+	7 RG07 System Unleashed
+	4 MU01 Unit Zero, Rumi's Right Hand
+	4 MU02 Rumi, Azurite General
+	15 UM01 Azurite Betrayer
+	15 UM01 RAM Drainer
+	15 UM01 Crimson Hacktivist
+	15 UM01 Scorchrush Anarchist
+	15 UM01 Cat Caller
+	15 UM01 Order Keepers
+	15 UM01 Fracture Engineer
+	15 UM01 Graveyard Technician
+	15 UM01 Kakeru, Munitions Supplier
+	15 UM01 Neuroline Constructor
+	7 RM01 Rumi, Aspiring Technician
+	7 RM01 Nyxren, Void Caller
+	7 RM01 Terralock, Ground Rewired
+	7 RM01 Artifical Duplication
+	7 RM01 Casualties of War
+	6 CA02 Order-Sanctioned Juggernaut
+	7 RX01 Battlefield Manufacturer
+	6 CA05 Azurite Geode
+	6 CA03 Plasma-Fused Sphinx
+	6 CA01 Scrap-Scouter Drone
+	6 CL01 Ember Nexus
+	15 UL01 Echoing Shrine
+	15 UL02 Datafall Ruins
+	15 UL03 Memory Garden
+	15 UL04 Cached Fortress
+	15 UL05 Daunting Expanse
+	15 UX01 Ornithopter
+	6 CA04 Bone Saw
+	7 RR07 Blacksmith's Legacy
+	4 MX02 Hikaru, Catalyst In Between
+	4 MM01 Kakeru, General of Order
+	4 The Corepulse, Awakenened
+	4 MX05 Alarion, Face of The Order
+	6 CL03 Prism Bastion
+	6 CL02 Null Crucible
+	6 CL04 Quantum Spire
+	6 CL05 Verdant Circuit
+	7 RL06 Chapel of the Nullbody
+	7 RL02 Shore of the Skyglass
+	7 RL03 Tunnels of the Mindhusk
+	7 RL04 Ruins of the Dreamforge
+	7 RL05 Santuary of the Lifecode
+	7 RL07 Refraction of the Singularity
+	7 RL09 Spire of the Ordersoul
+	7 RL08 Garden of the Nullseed
+	7 RL10 Laboratory of the Echobloom
+	7 RL01 Grove of the Burnwillows
+	6 CR05 Scorchlink Assassin
+	6 CR08 Scorchrush Juggernaut
+	6 CL06 Bloodfell Caves
+	6 CL07 Blossoming Sands
+	6 CL08 Dismal Backwater
+	6 CL11 Scoured Barrens
+	6 CL12 Swiftwater Cliffs
+	6 CL14 Tranquil Cove
+	6 CL13 Thornwood Falls
+	6 CL09 Jungle Hollow
+	6 CL10 Rugged Highlands
+	6 CL15 Wind-Scarred Crag
+	6 CA07 Circuitstone Systems
+	6 CA06 Candy Chip
+	6 CU19 Subconscious Override
+	6 CW06 Repurposing Technician
+	7 RM01 Jihito, Wartorn Survivalist
+	6 CG17 Clean Shot
+	7 RM02 Curse of the Persistent
+	6 CU10 Cached Dataset
+	7 RM01 Glimpses of Infinity
+	15 UW11 Remove Innovation
+	15 UR09 Ionized Pulse Rifle
+	7 RM01 Infinitize

@@ -1,0 +1,1758 @@
+﻿[
+    {
+        "card_name": "RW01 Alarion, Husk of the Order",
+        "number": 33,
+        "shape": "normal",
+        "set": "a",
+        "position": "142"
+    },
+    {
+        "card_name": "MU01 Unit Zero, Rumi's Right Hand",
+        "number": 70,
+        "shape": "normal",
+        "set": "a",
+        "position": "179"
+    },
+    {
+        "card_name": "RB06 Self Reconstruction",
+        "number": 116,
+        "shape": "normal",
+        "set": "a",
+        "position": "161"
+    },
+    {
+        "card_name": "RR01 Kaelen, Retributory Operative",
+        "number": 149,
+        "shape": "normal",
+        "set": "a",
+        "position": "163"
+    },
+    {
+        "card_name": "RG07 System Unleashed",
+        "number": 194,
+        "shape": "normal",
+        "set": "a",
+        "position": "176"
+    },
+    {
+        "card_name": "RW07 Slice Down",
+        "number": 39,
+        "shape": "normal",
+        "set": "a",
+        "position": "148"
+    },
+    {
+        "card_name": "MU02 Rumi, Azurite General",
+        "number": 71,
+        "shape": "planeswalker",
+        "set": "a",
+        "position": "180"
+    },
+    {
+        "card_name": "RB07 Invoke Despair",
+        "number": 117,
+        "shape": "normal",
+        "set": "a",
+        "position": "162"
+    },
+    {
+        "card_name": "RR02 Kari, Speed Blitzer",
+        "number": 150,
+        "shape": "normal",
+        "set": "a",
+        "position": "164"
+    },
+    {
+        "card_name": "UG01 Leafcoiler",
+        "number": 195,
+        "shape": "normal",
+        "set": "a",
+        "position": "71"
+    },
+    {
+        "card_name": "UW01 Sparkworker",
+        "number": 40,
+        "shape": "normal",
+        "set": "a",
+        "position": "0"
+    },
+    {
+        "card_name": "RU01 Fblthp, Terminally Lost",
+        "number": 72,
+        "shape": "normal",
+        "set": "a",
+        "position": "149"
+    },
+    {
+        "card_name": "UB01 Bonecacher",
+        "number": 118,
+        "shape": "normal",
+        "set": "a",
+        "position": "35"
+    },
+    {
+        "card_name": "RR06 Tagout",
+        "number": 154,
+        "shape": "normal",
+        "set": "a",
+        "position": "169"
+    },
+    {
+        "card_name": "UG09 Dredger's Insight",
+        "number": 203,
+        "shape": "normal",
+        "set": "a",
+        "position": "139"
+    },
+    {
+        "card_name": "UW02 Order Extraction Transport",
+        "number": 41,
+        "shape": "normal",
+        "set": "a",
+        "position": "90"
+    },
+    {
+        "card_name": "RU02 Phazer, Echo of Persistence",
+        "number": 73,
+        "shape": "normal",
+        "set": "a",
+        "position": "150"
+    },
+    {
+        "card_name": "UB02 Umbral Collar Zealot",
+        "number": 119,
+        "shape": "normal",
+        "set": "a",
+        "position": "111"
+    },
+    {
+        "card_name": "UR01 Flamejetter",
+        "number": 156,
+        "shape": "normal",
+        "set": "a",
+        "position": "54"
+    },
+    {
+        "card_name": "CG01 Underground Alchemist",
+        "number": 167,
+        "shape": "normal",
+        "set": "a",
+        "position": "131"
+    },
+    {
+        "card_name": "UW10 Armed and Primed",
+        "number": 49,
+        "shape": "normal",
+        "set": "a",
+        "position": "98"
+    },
+    {
+        "card_name": "RU03 Unsent Communication",
+        "number": 74,
+        "shape": "normal",
+        "set": "a",
+        "position": "151"
+    },
+    {
+        "card_name": "UB11 Recorded Atrocities",
+        "number": 127,
+        "shape": "normal",
+        "set": "a",
+        "position": "120"
+    },
+    {
+        "card_name": "UR02",
+        "number": 157,
+        "shape": "normal",
+        "set": "a",
+        "position": "122"
+    },
+    {
+        "card_name": "CG02 District Bloomkeeper",
+        "number": 168,
+        "shape": "normal",
+        "set": "a",
+        "position": "72"
+    },
+    {
+        "card_name": "UW11 Remove Innovation",
+        "number": 50,
+        "shape": "normal",
+        "set": "a",
+        "position": "281"
+    },
+    {
+        "card_name": "UU01 Glitchphaser",
+        "number": 79,
+        "shape": "normal",
+        "set": "a",
+        "position": "18"
+    },
+    {
+        "card_name": "CB01 Hullcarver",
+        "number": 90,
+        "shape": "normal",
+        "set": "a",
+        "position": "110"
+    },
+    {
+        "card_name": "UR03 Rooftop Scouter",
+        "number": 158,
+        "shape": "normal",
+        "set": "a",
+        "position": "124"
+    },
+    {
+        "card_name": "CG03 Scorchrush Mechasuit",
+        "number": 169,
+        "shape": "normal",
+        "set": "a",
+        "position": "73"
+    },
+    {
+        "card_name": "CW01 Kakeru's Understudy",
+        "number": 12,
+        "shape": "normal",
+        "set": "a",
+        "position": "89"
+    },
+    {
+        "card_name": "UU02 Spectra, Unblinking Eye",
+        "number": 80,
+        "shape": "normal",
+        "set": "a",
+        "position": "100"
+    },
+    {
+        "card_name": "CB02 Sparkscour Hacker",
+        "number": 91,
+        "shape": "normal",
+        "set": "a",
+        "position": "36"
+    },
+    {
+        "card_name": "UR08 Recursive Protocol",
+        "number": 163,
+        "shape": "normal",
+        "set": "a",
+        "position": "128"
+    },
+    {
+        "card_name": "CG04 Pipe-Tunnel Scavenger",
+        "number": 170,
+        "shape": "normal",
+        "set": "a",
+        "position": "74"
+    },
+    {
+        "card_name": "CW02 Frontline Fodder",
+        "number": 13,
+        "shape": "normal",
+        "set": "a",
+        "position": "1"
+    },
+    {
+        "card_name": "UU03 Nexus, Source Code",
+        "number": 81,
+        "shape": "normal",
+        "set": "a",
+        "position": "101"
+    },
+    {
+        "card_name": "CB03 Corrupt Court Official",
+        "number": 92,
+        "shape": "normal",
+        "set": "a",
+        "position": "37"
+    },
+    {
+        "card_name": "UR09 Ionized Pulse Rifle",
+        "number": 164,
+        "shape": "normal",
+        "set": "a",
+        "position": "282"
+    },
+    {
+        "card_name": "CG05 Neuroline Guardian",
+        "number": 171,
+        "shape": "normal",
+        "set": "a",
+        "position": "75"
+    },
+    {
+        "card_name": "CW03 Order Priest",
+        "number": 14,
+        "shape": "normal",
+        "set": "a",
+        "position": "2"
+    },
+    {
+        "card_name": "UU04 Walking Building",
+        "number": 82,
+        "shape": "normal",
+        "set": "a",
+        "position": "102"
+    },
+    {
+        "card_name": "CB04 Memory-Gutter Scraper",
+        "number": 93,
+        "shape": "normal",
+        "set": "a",
+        "position": "38"
+    },
+    {
+        "card_name": "UR10 The Corepulse, Discovered",
+        "number": 165,
+        "shape": "normal",
+        "set": "a",
+        "position": "129"
+    },
+    {
+        "card_name": "CG06 Corpseline Picker",
+        "number": 172,
+        "shape": "normal",
+        "set": "a",
+        "position": "76"
+    },
+    {
+        "card_name": "CW04 Drudging Mechanist",
+        "number": 15,
+        "shape": "normal",
+        "set": "a",
+        "position": "3"
+    },
+    {
+        "card_name": "UU05 Kaeto, Arcanomancer",
+        "number": 83,
+        "shape": "normal",
+        "set": "a",
+        "position": "103"
+    },
+    {
+        "card_name": "CB05 Processor Salvager",
+        "number": 94,
+        "shape": "normal",
+        "set": "a",
+        "position": "39"
+    },
+    {
+        "card_name": "UR11 Retributory Fighters",
+        "number": 166,
+        "shape": "normal",
+        "set": "a",
+        "position": "130"
+    },
+    {
+        "card_name": "CG07 Sawtooth Charger",
+        "number": 173,
+        "shape": "normal",
+        "set": "a",
+        "position": "77"
+    },
+    {
+        "card_name": "CW05 Oppressive Enforcer",
+        "number": 16,
+        "shape": "normal",
+        "set": "a",
+        "position": "4"
+    },
+    {
+        "card_name": "UU06 Cura, Neuroline Ascendant",
+        "number": 84,
+        "shape": "normal",
+        "set": "a",
+        "position": "104"
+    },
+    {
+        "card_name": "CB06 Hierarch Enforcer",
+        "number": 95,
+        "shape": "normal",
+        "set": "a",
+        "position": "40"
+    },
+    {
+        "card_name": "CR01 Sparkburn Drone",
+        "number": 128,
+        "shape": "normal",
+        "set": "a",
+        "position": "121"
+    },
+    {
+        "card_name": "CG08 Vitalcore Forger",
+        "number": 174,
+        "shape": "normal",
+        "set": "a",
+        "position": "78"
+    },
+    {
+        "card_name": "CW06 Repurposing Technician",
+        "number": 17,
+        "shape": "normal",
+        "set": "a",
+        "position": "275"
+    },
+    {
+        "card_name": "UU07 Capture Drones",
+        "number": 85,
+        "shape": "normal",
+        "set": "a",
+        "position": "105"
+    },
+    {
+        "card_name": "CB07 Bloodcircuit Marauder",
+        "number": 96,
+        "shape": "normal",
+        "set": "a",
+        "position": "41"
+    },
+    {
+        "card_name": "CR02 Boneplate Apprentice",
+        "number": 129,
+        "shape": "normal",
+        "set": "a",
+        "position": "55"
+    },
+    {
+        "card_name": "CG09 Copper Elemental",
+        "number": 175,
+        "shape": "normal",
+        "set": "a",
+        "position": "79"
+    },
+    {
+        "card_name": "CW07 Bronze-Halo Aspirant",
+        "number": 18,
+        "shape": "normal",
+        "set": "a",
+        "position": "5"
+    },
+    {
+        "card_name": "UU08 Cog to the Machine",
+        "number": 86,
+        "shape": "normal",
+        "set": "a",
+        "position": "106"
+    },
+    {
+        "card_name": "CB08 Projection Spiritcaller",
+        "number": 97,
+        "shape": "normal",
+        "set": "a",
+        "position": "42"
+    },
+    {
+        "card_name": "CR03 Patchling Slasher",
+        "number": 130,
+        "shape": "normal",
+        "set": "a",
+        "position": "56"
+    },
+    {
+        "card_name": "CG10 Corpseline Elemental",
+        "number": 176,
+        "shape": "normal",
+        "set": "a",
+        "position": "80"
+    },
+    {
+        "card_name": "CW08 Community Warden",
+        "number": 19,
+        "shape": "normal",
+        "set": "a",
+        "position": "6"
+    },
+    {
+        "card_name": "UU09 Cargo Ship",
+        "number": 87,
+        "shape": "normal",
+        "set": "a",
+        "position": "107"
+    },
+    {
+        "card_name": "CB09 Lobeharvester Drone",
+        "number": 98,
+        "shape": "normal",
+        "set": "a",
+        "position": "43"
+    },
+    {
+        "card_name": "CR04 Rustcleaver Ronin",
+        "number": 131,
+        "shape": "normal",
+        "set": "a",
+        "position": "57"
+    },
+    {
+        "card_name": "CG11 Scorchrush Mentor",
+        "number": 177,
+        "shape": "normal",
+        "set": "a",
+        "position": "81"
+    },
+    {
+        "card_name": "CW09 Aerial Convoy Escort",
+        "number": 20,
+        "shape": "normal",
+        "set": "a",
+        "position": "7"
+    },
+    {
+        "card_name": "UU10 Keep Under Eyes",
+        "number": 88,
+        "shape": "normal",
+        "set": "a",
+        "position": "108"
+    },
+    {
+        "card_name": "CB10 Order Elite Juggernaut",
+        "number": 99,
+        "shape": "normal",
+        "set": "a",
+        "position": "44"
+    },
+    {
+        "card_name": "CR05 Scorchlink Assassin",
+        "number": 132,
+        "shape": "normal",
+        "set": "a",
+        "position": "260"
+    },
+    {
+        "card_name": "CG12 Datafeed Skirmish",
+        "number": 178,
+        "shape": "normal",
+        "set": "a",
+        "position": "82"
+    },
+    {
+        "card_name": "CW10 Field Medic Veteran",
+        "number": 21,
+        "shape": "normal",
+        "set": "a",
+        "position": "8"
+    },
+    {
+        "card_name": "UU11 Cognitive Cacher",
+        "number": 89,
+        "shape": "normal",
+        "set": "a",
+        "position": "109"
+    },
+    {
+        "card_name": "CB11 Terminate Process",
+        "number": 100,
+        "shape": "normal",
+        "set": "a",
+        "position": "45"
+    },
+    {
+        "card_name": "CR06 Forgerush Artillerist",
+        "number": 133,
+        "shape": "normal",
+        "set": "a",
+        "position": "58"
+    },
+    {
+        "card_name": "CG13 Overclock the Flesh",
+        "number": 179,
+        "shape": "normal",
+        "set": "a",
+        "position": "83"
+    },
+    {
+        "card_name": "CW11 Halberd-Line Enforcer",
+        "number": 22,
+        "shape": "normal",
+        "set": "a",
+        "position": "9"
+    },
+    {
+        "card_name": "CU01 Static Node",
+        "number": 51,
+        "shape": "normal",
+        "set": "a",
+        "position": "99"
+    },
+    {
+        "card_name": "CB12 Debug Purge",
+        "number": 101,
+        "shape": "normal",
+        "set": "a",
+        "position": "46"
+    },
+    {
+        "card_name": "CR07 Corepulse Analyst",
+        "number": 134,
+        "shape": "normal",
+        "set": "a",
+        "position": "59"
+    },
+    {
+        "card_name": "CG14 Unified Rush",
+        "number": 180,
+        "shape": "normal",
+        "set": "a",
+        "position": "84"
+    },
+    {
+        "card_name": "CW12 Rushdown Sergeant",
+        "number": 23,
+        "shape": "normal",
+        "set": "a",
+        "position": "10"
+    },
+    {
+        "card_name": "CU02 Data Skimmer",
+        "number": 52,
+        "shape": "normal",
+        "set": "a",
+        "position": "19"
+    },
+    {
+        "card_name": "CB13 Order Raid",
+        "number": 102,
+        "shape": "normal",
+        "set": "a",
+        "position": "47"
+    },
+    {
+        "card_name": "CR08 Scorchrush Juggernaut",
+        "number": 135,
+        "shape": "normal",
+        "set": "a",
+        "position": "261"
+    },
+    {
+        "card_name": "CG15 Compile the System",
+        "number": 181,
+        "shape": "normal",
+        "set": "a",
+        "position": "85"
+    },
+    {
+        "card_name": "CW13 Crush Under the Order",
+        "number": 24,
+        "shape": "normal",
+        "set": "a",
+        "position": "11"
+    },
+    {
+        "card_name": "CU03 Scrap-Node Hermit",
+        "number": 53,
+        "shape": "normal",
+        "set": "a",
+        "position": "20"
+    },
+    {
+        "card_name": "CB14 Sever Link",
+        "number": 103,
+        "shape": "normal",
+        "set": "a",
+        "position": "48"
+    },
+    {
+        "card_name": "CR09 Ashframe Slasher",
+        "number": 136,
+        "shape": "normal",
+        "set": "a",
+        "position": "60"
+    },
+    {
+        "card_name": "CG16 Biocircuit Enhancement",
+        "number": 182,
+        "shape": "normal",
+        "set": "a",
+        "position": "86"
+    },
+    {
+        "card_name": "CW14 Lockdown Systems",
+        "number": 25,
+        "shape": "normal",
+        "set": "a",
+        "position": "12"
+    },
+    {
+        "card_name": "CU04 Neuroline Coder",
+        "number": 54,
+        "shape": "normal",
+        "set": "a",
+        "position": "21"
+    },
+    {
+        "card_name": "CB15 Exploit the Vulnerability",
+        "number": 104,
+        "shape": "normal",
+        "set": "a",
+        "position": "49"
+    },
+    {
+        "card_name": "CR10 Detonation Crawler",
+        "number": 137,
+        "shape": "normal",
+        "set": "a",
+        "position": "61"
+    },
+    {
+        "card_name": "CG17 Clean Shot",
+        "number": 183,
+        "shape": "normal",
+        "set": "a",
+        "position": "277"
+    },
+    {
+        "card_name": "CW15 Neutralization Protocol",
+        "number": 26,
+        "shape": "normal",
+        "set": "a",
+        "position": "13"
+    },
+    {
+        "card_name": "CU05 Predictive Patternist",
+        "number": 55,
+        "shape": "normal",
+        "set": "a",
+        "position": "22"
+    },
+    {
+        "card_name": "CB16 Deconstruct and Recompile",
+        "number": 105,
+        "shape": "normal",
+        "set": "a",
+        "position": "50"
+    },
+    {
+        "card_name": "CR11 Wall Shot",
+        "number": 138,
+        "shape": "normal",
+        "set": "a",
+        "position": "62"
+    },
+    {
+        "card_name": "CG18 Lifecode Creation",
+        "number": 184,
+        "shape": "normal",
+        "set": "a",
+        "position": "87"
+    },
+    {
+        "card_name": "CW16 Alley Evasion",
+        "number": 27,
+        "shape": "normal",
+        "set": "a",
+        "position": "14"
+    },
+    {
+        "card_name": "CU06 Latency Disruptor",
+        "number": 56,
+        "shape": "normal",
+        "set": "a",
+        "position": "23"
+    },
+    {
+        "card_name": "CB17 Duress",
+        "number": 106,
+        "shape": "normal",
+        "set": "a",
+        "position": "51"
+    },
+    {
+        "card_name": "CR12 Rage of the Scorchlink",
+        "number": 139,
+        "shape": "normal",
+        "set": "a",
+        "position": "63"
+    },
+    {
+        "card_name": "CG19 System Purge",
+        "number": 185,
+        "shape": "normal",
+        "set": "a",
+        "position": "88"
+    },
+    {
+        "card_name": "CW17 Order-Issued Blade",
+        "number": 28,
+        "shape": "normal",
+        "set": "a",
+        "position": "15"
+    },
+    {
+        "card_name": "CU07 Chassis Salvager",
+        "number": 57,
+        "shape": "normal",
+        "set": "a",
+        "position": "24"
+    },
+    {
+        "card_name": "CB18 Synthetic Vigor",
+        "number": 107,
+        "shape": "normal",
+        "set": "a",
+        "position": "52"
+    },
+    {
+        "card_name": "CR13 Logic Corruption",
+        "number": 140,
+        "shape": "normal",
+        "set": "a",
+        "position": "64"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW18 Mobilize the Civilians",
+        "number": 29,
+        "shape": "normal",
+        "set": "a",
+        "position": "16"
+    },
+    {
+        "card_name": "CU08 Covert Compiler",
+        "number": 58,
+        "shape": "normal",
+        "set": "a",
+        "position": "25"
+    },
+    {
+        "card_name": "CB19 Reusable Protocol",
+        "number": 108,
+        "shape": "normal",
+        "set": "a",
+        "position": "53"
+    },
+    {
+        "card_name": "CR14 Overclocked Wave",
+        "number": 141,
+        "shape": "normal",
+        "set": "a",
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW19 Orderly Deconstruction",
+        "number": 30,
+        "shape": "normal",
+        "set": "a",
+        "position": "17"
+    },
+    {
+        "card_name": "CU09 Deep-Vault Watcher",
+        "number": 59,
+        "shape": "normal",
+        "set": "a",
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR15 Terminal Reroute",
+        "number": 142,
+        "shape": "normal",
+        "set": "a",
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU10 Cached Dataset",
+        "number": 60,
+        "shape": "normal",
+        "set": "a",
+        "position": "279"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR16 Auto-Forged Blade",
+        "number": 143,
+        "shape": "normal",
+        "set": "a",
+        "position": "67"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU11 System Immunity",
+        "number": 61,
+        "shape": "normal",
+        "set": "a",
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR17 Adrenaline Spike",
+        "number": 144,
+        "shape": "normal",
+        "set": "a",
+        "position": "68"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU12 You Find a Vulnerability",
+        "number": 62,
+        "shape": "normal",
+        "set": "a",
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR18 Targeting Jammer",
+        "number": 145,
+        "shape": "normal",
+        "set": "a",
+        "position": "69"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU13 System Freeze",
+        "number": 63,
+        "shape": "normal",
+        "set": "a",
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR19 Flare Shot",
+        "number": 146,
+        "shape": "normal",
+        "set": "a",
+        "position": "70"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU14 Exploit the System",
+        "number": 64,
+        "shape": "normal",
+        "set": "a",
+        "position": "30"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU15 Data Override",
+        "number": 65,
+        "shape": "normal",
+        "set": "a",
+        "position": "31"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU16 Displaced Data",
+        "number": 66,
+        "shape": "normal",
+        "set": "a",
+        "position": "32"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU17 Overclock Pulse",
+        "number": 67,
+        "shape": "normal",
+        "set": "a",
+        "position": "33"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU18 Neural Jam",
+        "number": 68,
+        "shape": "normal",
+        "set": "a",
+        "position": "34"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU19 Subconscious Override",
+        "number": 69,
+        "shape": "normal",
+        "set": "a",
+        "position": "274"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RM01 Rumi, Aspiring Technician",
+        "number": 219,
+        "shape": "transform double faced",
+        "set": "a",
+        "position": "197"
+    },
+    {
+        "card_name": "RU07 Hacker's Legacy",
+        "number": 78,
+        "shape": "class",
+        "set": "a",
+        "position": "155"
+    },
+    {
+        "card_name": "UM01 Crimson Hacktivist",
+        "number": 224,
+        "shape": "normal",
+        "set": "a",
+        "position": "189"
+    },
+    {
+        "card_name": "RM01 Terralock, Ground Rewired",
+        "number": 220,
+        "shape": "normal",
+        "set": "a",
+        "position": "200"
+    },
+    {
+        "card_name": "UM01 Cat Caller",
+        "number": 223,
+        "shape": "normal",
+        "set": "a",
+        "position": "191"
+    },
+    {
+        "card_name": "UM01 Azurite Betrayer",
+        "number": 222,
+        "shape": "normal",
+        "set": "a",
+        "position": "187"
+    },
+    {
+        "card_name": "RM01 Nyxren, Void Caller",
+        "number": 218,
+        "shape": "normal",
+        "set": "a",
+        "position": "198"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 Scorchrush Anarchist",
+        "number": 231,
+        "shape": "normal",
+        "set": "a",
+        "position": "190"
+    },
+    {
+        "card_name": "UG11 Lifecode Bloom",
+        "number": 233,
+        "shape": "normal",
+        "set": "a",
+        "position": "141"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 RAM Drainer",
+        "number": 230,
+        "shape": "normal",
+        "set": "a",
+        "position": "188"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MX05 Alarion, Face of The Order",
+        "number": 208,
+        "shape": "normal",
+        "set": "a",
+        "position": "239"
+    },
+    {
+        "card_name": "MX02 Hikaru, Catalyst In Between",
+        "number": 207,
+        "shape": "normal",
+        "set": "a",
+        "position": "236"
+    },
+    {
+        "card_name": "RM01 Casualties of War",
+        "number": 214,
+        "shape": "normal",
+        "set": "a",
+        "position": "203"
+    },
+    {
+        "card_name": "MM01 Kakeru, General of Order",
+        "number": 205,
+        "shape": "normal",
+        "set": "a",
+        "position": "237"
+    },
+    {
+        "card_name": "UM01 Neuroline Constructor",
+        "number": 228,
+        "shape": "normal",
+        "set": "a",
+        "position": "196"
+    },
+    {
+        "card_name": "RM01 Glimpses of Infinity",
+        "number": 215,
+        "shape": "normal",
+        "set": "a",
+        "position": "280"
+    },
+    {
+        "card_name": "The Corepulse, Awakenened",
+        "number": 234,
+        "shape": "planeswalker",
+        "set": "a",
+        "position": "238"
+    },
+    {
+        "card_name": "UM01 Graveyard Technician",
+        "number": 226,
+        "shape": "normal",
+        "set": "a",
+        "position": "194"
+    },
+    {
+        "card_name": "RR07 Blacksmith's Legacy",
+        "number": 155,
+        "shape": "class",
+        "set": "a",
+        "position": "232"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RM02 Curse of the Persistent",
+        "number": 221,
+        "shape": "normal",
+        "set": "a",
+        "position": "278"
+    },
+    {
+        "card_name": "RM01 Artifical Duplication",
+        "number": 213,
+        "shape": "normal",
+        "set": "a",
+        "position": "202"
+    },
+    {
+        "card_name": "UB09 Corpseline Barracks",
+        "number": 232,
+        "shape": "normal",
+        "set": "a",
+        "position": "118"
+    },
+    {
+        "card_name": "UM01 Kakeru, Munitions Supplier",
+        "number": 227,
+        "shape": "normal",
+        "set": "a",
+        "position": "195"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM01 Order Keepers",
+        "number": 229,
+        "shape": "normal",
+        "set": "a",
+        "position": "192"
+    },
+    {
+        "card_name": "UM01 Fracture Engineer",
+        "number": 225,
+        "shape": "normal",
+        "set": "a",
+        "position": "193"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM01 Jihito, Wartorn Survivalist",
+        "number": 217,
+        "shape": "normal",
+        "set": "a",
+        "position": "276"
+    },
+    {
+        "card_name": "RM01 Infinitize",
+        "number": 216,
+        "shape": "normal",
+        "set": "a",
+        "position": "283"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "RX06 Bound to Null",
+        "number": 5,
+        "shape": "normal",
+        "set": "a",
+        "position": "168"
+    },
+    {
+        "card_name": "RX01 Battlefield Manufacturer",
+        "number": 242,
+        "shape": "normal",
+        "set": "a",
+        "position": "207"
+    },
+    {
+        "card_name": "UX01 Ornithopter",
+        "number": 248,
+        "shape": "normal",
+        "set": "a",
+        "position": "222"
+    },
+    {
+        "card_name": "CA01 Scrap-Scouter Drone",
+        "number": 235,
+        "shape": "normal",
+        "set": "a",
+        "position": "210"
+    },
+    {
+        "card_name": "CA02 Order-Sanctioned Juggernaut",
+        "number": 236,
+        "shape": "normal",
+        "set": "a",
+        "position": "206"
+    },
+    {
+        "card_name": "CA03 Plasma-Fused Sphinx",
+        "number": 237,
+        "shape": "normal",
+        "set": "a",
+        "position": "209"
+    },
+    {
+        "card_name": "CA04 Bone Saw",
+        "number": 238,
+        "shape": "normal",
+        "set": "a",
+        "position": "227"
+    },
+    {
+        "card_name": "CA05 Azurite Geode",
+        "number": 239,
+        "shape": "normal",
+        "set": "a",
+        "position": "208"
+    },
+    {
+        "card_name": "CA06 Candy Chip",
+        "number": 240,
+        "shape": "normal",
+        "set": "a",
+        "position": "273"
+    },
+    {
+        "card_name": "CA07 Circuitstone Systems",
+        "number": 241,
+        "shape": "normal",
+        "set": "a",
+        "position": "272"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "UL01 Echoing Shrine",
+        "number": 274,
+        "shape": "normal",
+        "set": "a",
+        "position": "217"
+    },
+    {
+        "card_name": "UL02 Datafall Ruins",
+        "number": 275,
+        "shape": "normal",
+        "set": "a",
+        "position": "218"
+    },
+    {
+        "card_name": "UL05 Daunting Expanse",
+        "number": 278,
+        "shape": "normal",
+        "set": "a",
+        "position": "221"
+    },
+    {
+        "card_name": "UL04 Cached Fortress",
+        "number": 277,
+        "shape": "normal",
+        "set": "a",
+        "position": "220"
+    },
+    {
+        "card_name": "UL03 Memory Garden",
+        "number": 276,
+        "shape": "normal",
+        "set": "a",
+        "position": "219"
+    },
+    {
+        "card_name": "CL03 Prism Bastion",
+        "number": 251,
+        "shape": "normal",
+        "set": "a",
+        "position": "245"
+    },
+    {
+        "card_name": "CL04 Quantum Spire",
+        "number": 252,
+        "shape": "normal",
+        "set": "a",
+        "position": "247"
+    },
+    {
+        "card_name": "CL02 Null Crucible",
+        "number": 250,
+        "shape": "normal",
+        "set": "a",
+        "position": "246"
+    },
+    {
+        "card_name": "CL01 Ember Nexus",
+        "number": 249,
+        "shape": "normal",
+        "set": "a",
+        "position": "216"
+    },
+    {
+        "card_name": "CL05 Verdant Circuit",
+        "number": 253,
+        "shape": "normal",
+        "set": "a",
+        "position": "248"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL02 Shore of the Skyglass",
+        "number": 265,
+        "shape": "normal",
+        "set": "a",
+        "position": "250"
+    },
+    {
+        "card_name": "RL03 Tunnels of the Mindhusk",
+        "number": 266,
+        "shape": "normal",
+        "set": "a",
+        "position": "251"
+    },
+    {
+        "card_name": "RL04 Ruins of the Dreamforge",
+        "number": 267,
+        "shape": "normal",
+        "set": "a",
+        "position": "252"
+    },
+    {
+        "card_name": "RL01 Grove of the Burnwillows",
+        "number": 264,
+        "shape": "normal",
+        "set": "a",
+        "position": "258"
+    },
+    {
+        "card_name": "RL05 Santuary of the Lifecode",
+        "number": 268,
+        "shape": "normal",
+        "set": "a",
+        "position": "253"
+    },
+    {
+        "card_name": "CL14 Tranquil Cove",
+        "number": 262,
+        "shape": "normal",
+        "set": "a",
+        "position": "267"
+    },
+    {
+        "card_name": "CL08 Dismal Backwater",
+        "number": 256,
+        "shape": "normal",
+        "set": "a",
+        "position": "264"
+    },
+    {
+        "card_name": "CL06 Bloodfell Caves",
+        "number": 254,
+        "shape": "normal",
+        "set": "a",
+        "position": "262"
+    },
+    {
+        "card_name": "CL10 Rugged Highlands",
+        "number": 258,
+        "shape": "normal",
+        "set": "a",
+        "position": "270"
+    },
+    {
+        "card_name": "CL07 Blossoming Sands",
+        "number": 255,
+        "shape": "normal",
+        "set": "a",
+        "position": "263"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL06 Chapel of the Nullbody",
+        "number": 269,
+        "shape": "normal",
+        "set": "a",
+        "position": "249"
+    },
+    {
+        "card_name": "RL07 Refraction of the Singularity",
+        "number": 270,
+        "shape": "normal",
+        "set": "a",
+        "position": "254"
+    },
+    {
+        "card_name": "RL08 Garden of the Nullseed",
+        "number": 271,
+        "shape": "normal",
+        "set": "a",
+        "position": "256"
+    },
+    {
+        "card_name": "RL09 Spire of the Ordersoul",
+        "number": 272,
+        "shape": "normal",
+        "set": "a",
+        "position": "255"
+    },
+    {
+        "card_name": "RL10 Laboratory of the Echobloom",
+        "number": 273,
+        "shape": "normal",
+        "set": "a",
+        "position": "257"
+    },
+    {
+        "card_name": "CL11 Scoured Barrens",
+        "number": 259,
+        "shape": "normal",
+        "set": "a",
+        "position": "265"
+    },
+    {
+        "card_name": "CL12 Swiftwater Cliffs",
+        "number": 260,
+        "shape": "normal",
+        "set": "a",
+        "position": "266"
+    },
+    {
+        "card_name": "CL09 Jungle Hollow",
+        "number": 257,
+        "shape": "normal",
+        "set": "a",
+        "position": "269"
+    },
+    {
+        "card_name": "CL15 Wind-Scarred Crag",
+        "number": 263,
+        "shape": "normal",
+        "set": "a",
+        "position": "271"
+    },
+    {
+        "card_name": "CL13 Thornwood Falls",
+        "number": 261,
+        "shape": "normal",
+        "set": "a",
+        "position": "268"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 280,
+        "shape": "normal",
+        "set": "a",
+        "position": "240"
+    },
+    {
+        "card_name": "Island",
+        "number": 281,
+        "shape": "normal",
+        "set": "a",
+        "position": "241"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 282,
+        "shape": "normal",
+        "set": "a",
+        "position": "242"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 283,
+        "shape": "normal",
+        "set": "a",
+        "position": "243"
+    },
+    {
+        "card_name": "Forest",
+        "number": 284,
+        "shape": "normal",
+        "set": "a",
+        "position": "244"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 279,
+        "shape": "normal",
+        "set": "a",
+        "position": "259"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

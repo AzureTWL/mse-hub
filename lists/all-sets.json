@@ -1,3 +1,9 @@
 ﻿{
-    "sets": []
+    "sets": [
+        {
+            "set_code": "a",
+            "set_name": "War Of Azurite",
+            "formats": ""
+        }
+    ]
 }
